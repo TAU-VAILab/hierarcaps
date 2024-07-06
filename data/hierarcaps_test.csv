@@ -1,0 +1,1001 @@
+id,captions,image_url
+0,"table => table with plates => table with three plates, with man and woman holding utensil => A table with three plates with food and a man and a woman both holding utensil near plates.",http://images.cocodataset.org/val2014/COCO_val2014_000000301718.jpg
+1,bird => blue bird => blue bird sitting on top of branch => A blue bird sitting on the top of a branch with autumn leaves,http://images.cocodataset.org/val2014/COCO_val2014_000000100489.jpg
+2,"cooking => oven => man using oven, holding door open => A man holding an oven door open while he looks in it.",http://images.cocodataset.org/val2014/COCO_val2014_000000213086.jpg
+3,"restroom => an older bathroom => an old, very worn out bathroom. => A very old and dirty rest room with sink and toilet.",http://images.cocodataset.org/val2014/COCO_val2014_000000267903.jpg
+4,street => street corner => street corner in a town. => a street corner in a town all bright from lights,http://images.cocodataset.org/val2014/COCO_val2014_000000133087.jpg
+5,bird => bird perched on top => bird perched on top of tree branch => A bird perched on top of a tree branch in a tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000337987.jpg
+6,persons => group of men => men in the street => A group of men standing on the side of a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000138639.jpg
+7,water sports => kite surfing => kite surfer on top of the board. => Kite surfer in the air on top of a red board.,http://images.cocodataset.org/val2014/COCO_val2014_000000331604.jpg
+8,baked goods => cake => cake shaped like heart. => Large collection of cakes shaped like hearts on a display.,http://images.cocodataset.org/val2014/COCO_val2014_000000128476.jpg
+9,outdoor => outdoor table => outdoor table with food and beer => An outdoor table containing assorted bowls of food and beer.,http://images.cocodataset.org/val2014/COCO_val2014_000000170670.jpg
+10,flying => bird => two birds flying in gray sky => Two birds flying in a gray sky next to a mountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000076261.jpg
+11,heat source => stove => stove with pot on top => a stove with a tea kettle and cooking pot on top,http://images.cocodataset.org/val2014/COCO_val2014_000000136466.jpg
+12,animal => goat => two white goats look at the tree => two white goats in a snowy field look at a tree,http://images.cocodataset.org/val2014/COCO_val2014_000000207728.jpg
+13,flying vehicle => airplane => a large jet airplane sitting on a tarmac. => A large jet airplane sitting on a tarmac at an airport.,http://images.cocodataset.org/val2014/COCO_val2014_000000099054.jpg
+14,living room => large living room => modern large living room => The large living room has been decorated in modern furnishings.,http://images.cocodataset.org/val2014/COCO_val2014_000000205514.jpg
+15,color => purple chair => purple chair is next to desk with laptop. => A purple chair is next to a desk with a computer and a laptop.,http://images.cocodataset.org/val2014/COCO_val2014_000000172595.jpg
+16,object => vase => vase with flowers in violet => there is a small glass vase that has purple flowers in it,http://images.cocodataset.org/val2014/COCO_val2014_000000168458.jpg
+17,public space => park => man sitting in park => an image of a man sitting on a park bench,http://images.cocodataset.org/val2014/COCO_val2014_000000209222.jpg
+18,personal belongings => briefcase => briefcase on a table => A briefcase with decorated with stickers placed on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000312421.jpg
+19,soup => cream-based soup => cream based soup with vegetables. => A cream based soup in a while bowl with a chopped green vegetable on top.,http://images.cocodataset.org/val2014/COCO_val2014_000000350388.jpg
+20,checkered => checkered floor => small kitchen with checkered floor => A small kitchen has a checkered floor and a window.,http://images.cocodataset.org/val2014/COCO_val2014_000000290768.jpg
+21,building => large tower => large tower with a clock on it => A large tower with a clock on it advertising transportation via train.,http://images.cocodataset.org/val2014/COCO_val2014_000000349678.jpg
+22,green space => park => a park and bench under cloudy sky => an empty park and bench beneath a partially cloudy sky,http://images.cocodataset.org/val2014/COCO_val2014_000000168619.jpg
+23,skate => skateboard => boy skateboarding on board => a boy that is on a skateboard doing a trick,http://images.cocodataset.org/val2014/COCO_val2014_000000291551.jpg
+24,people => group of people => a group of people are holding other people => A group of people are holding other people on a soccer field.,http://images.cocodataset.org/val2014/COCO_val2014_000000142238.jpg
+25,fruit => fresh fruit => fruit with peel for peeling => A hand holds a piece of fruit with the peel cut off.,http://images.cocodataset.org/val2014/COCO_val2014_000000347370.jpg
+26,person => girl => a bunch of girls sit on the grass. => A bunch of girls sit on the grass with several things on a blanket.,http://images.cocodataset.org/val2014/COCO_val2014_000000145597.jpg
+27,plate => white plate => white plate topped with lettuce => A white plate topped with dicked up lettuce next to carrots.,http://images.cocodataset.org/val2014/COCO_val2014_000000223090.jpg
+28,children => young child => young child in a room => A child in a room with a remote in hand.,http://images.cocodataset.org/val2014/COCO_val2014_000000144984.jpg
+29,flying vehicle => airplane => the two airplanes are in the air => The two airplanes are in the air next to eachother,http://images.cocodataset.org/val2014/COCO_val2014_000000161044.jpg
+30,large => large bowl => large bowl full of pasta => a large bowl full of pasta with many other foods,http://images.cocodataset.org/val2014/COCO_val2014_000000141328.jpg
+31,interior => room => a room with some furniture => a room that has some furniture and a table in it,http://images.cocodataset.org/val2014/COCO_val2014_000000013923.jpg
+32,"smoking => long cigarette => woman with a hat and tie smoking a long cigarette. => A woman with a hat, tie and striped halter smoking a long cigarette.",http://images.cocodataset.org/val2014/COCO_val2014_000000019924.jpg
+33,clothing => school skirt. => a man is in a school skirt. => A young man is dressed in a school skirt outfit.,http://images.cocodataset.org/val2014/COCO_val2014_000000042102.jpg
+34,furniture => chair => chair fashioned from baseball bats => A chair is fashioned from baseball bats and two cushions.,http://images.cocodataset.org/val2014/COCO_val2014_000000057232.jpg
+35,large animal => elephant => elephant stands on rocks => An elephant standing on rocks next to a wood bridge.,http://images.cocodataset.org/val2014/COCO_val2014_000000166642.jpg
+36,cooking vessel => pots => pots of food => a close up of two pots of food on a stove,http://images.cocodataset.org/val2014/COCO_val2014_000000109916.jpg
+37,technology => smart phone => person looking at another person using smart phone. => A person looking at their cell phone at another person taking a picture.,http://images.cocodataset.org/val2014/COCO_val2014_000000300039.jpg
+38,happiness => smiles of happiness => two children smiling in the parking lot => Two children smiling on top of luggage in parking lot,http://images.cocodataset.org/val2014/COCO_val2014_000000055150.jpg
+39,bread => bread in mouth => man with bread in mouth => A man with a piece of flat bread sticking out of his mouth.,http://images.cocodataset.org/val2014/COCO_val2014_000000224337.jpg
+40,table => dessert table => three trays filled with desserts. => A table topped with three trays filled with cakes and desserts.,http://images.cocodataset.org/val2014/COCO_val2014_000000318455.jpg
+41,cake => cut cake => two women are cutting a white cake => some people and two women are cutting a white cake,http://images.cocodataset.org/val2014/COCO_val2014_000000144003.jpg
+42,electronic devices => remote controls => two children are holding remote controls on a floor. => Two small children holding remote controls while sitting on a floor.,http://images.cocodataset.org/val2014/COCO_val2014_000000129492.jpg
+43,winter sports => ski => skiing through the snow towards a sunset => a person skiing through the snow near some trees toward a sunset,http://images.cocodataset.org/val2014/COCO_val2014_000000186042.jpg
+44,bathroom => small bathroom => small bathroom on airplane => A small bathroom on an airplane with handles on either side.,http://images.cocodataset.org/val2014/COCO_val2014_000000155154.jpg
+45,water vessel => boat => boat stuck in the sand => A sail boat stuck in the sand on the beach,http://images.cocodataset.org/val2014/COCO_val2014_000000209972.jpg
+46,cooking => outside cooking => a man cooks in an outdoor state of the art commercially performing oven. => A man is cooking in an outdoor state of the art commercial looking oven in the midst of a farm.,http://images.cocodataset.org/val2014/COCO_val2014_000000137294.jpg
+47,chair => red chair => red chair has a horse statue => A large red chair has a horse statue on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000269932.jpg
+48,food => hot dog => hot dog on plate. => a hot dog on a plate next to two glasses.,http://images.cocodataset.org/val2014/COCO_val2014_000000319617.jpg
+49,bird => pigeon bird => pigeon head as seen outside => A pigeon outside with his head in a piece of bread.,http://images.cocodataset.org/val2014/COCO_val2014_000000123585.jpg
+50,sliding door => sliding shower door => bathroom with sliding shower door => A bathroom with a sliding shower door next to a toilet.,http://images.cocodataset.org/val2014/COCO_val2014_000000187513.jpg
+51,toilet => toilet stall => a green door opens into a toilet stall. => A green door opens into a toilet stall containing a white toilet bowl.,http://images.cocodataset.org/val2014/COCO_val2014_000000175387.jpg
+52,"piece of furniture => table => table topped with a book, umbrella. => A table topped with a book, umbrella and other items.",http://images.cocodataset.org/val2014/COCO_val2014_000000096001.jpg
+53,glass => reflective glass => reflective glass building square => A square reflective glass building sitting next to a street light.,http://images.cocodataset.org/val2014/COCO_val2014_000000109441.jpg
+54,snow => snowy car => car with snow on it's ski rack => A car with a snowboard on it's ski rack parked in a foggy parking lot next to two cars with empty ski racks.,http://images.cocodataset.org/val2014/COCO_val2014_000000097679.jpg
+55,child => boy => boy plays in living room. => The young boy is playing in the living room of his house.,http://images.cocodataset.org/val2014/COCO_val2014_000000060899.jpg
+56,light => bright red light => bright red light on street. => A bright red light that is on the side of a snow covered street.,http://images.cocodataset.org/val2014/COCO_val2014_000000245102.jpg
+57,water body => pool => people looking at a pool. => A lot of people that are looking at a pool.,http://images.cocodataset.org/val2014/COCO_val2014_000000067213.jpg
+58,timekeeping devices => different clock => different clocks hanging from wall. => A wall with several different clocks hanging from it with a mirror next to them.,http://images.cocodataset.org/val2014/COCO_val2014_000000218362.jpg
+59,electrical device => home appliance => the microwave is closed => the microwave is closed the clock on it is at 10:14,http://images.cocodataset.org/val2014/COCO_val2014_000000269866.jpg
+60,"vehicle, => motorcycle => pair of people on motorcycle. => A  pair of people sitting on a motorcycle, in the grass.",http://images.cocodataset.org/val2014/COCO_val2014_000000068093.jpg
+61,foods => cooked food => meat plate topped with vegetables => a plate of meat topped with potatoes veggies and gravy,http://images.cocodataset.org/val2014/COCO_val2014_000000010583.jpg
+62,"tower => church tower => a church tower, with clock and arched windows. => A church tower with a clock in the centre and arched windows",http://images.cocodataset.org/val2014/COCO_val2014_000000247806.jpg
+63,"color => blue => blue, yellow and green surfboards => A blue, yellow and green surfboard sticking out of a sandy beach.",http://images.cocodataset.org/val2014/COCO_val2014_000000204329.jpg
+64,event => conference => presentation person at conference. => A presenter projected on a large screen at a conference.,http://images.cocodataset.org/val2014/COCO_val2014_000000008021.jpg
+65,structure => tower => a tower is ancient. => a old looking tower that has a clock on it,http://images.cocodataset.org/val2014/COCO_val2014_000000120572.jpg
+66,sea => surfing in the waves => surfing in a crashing wave. => A person on a surfboard is surfing on a crashing wave.,http://images.cocodataset.org/val2014/COCO_val2014_000000297595.jpg
+67,bike => dirt bike => a person on dirt bike on a hill => A person on dirt bike riding down a hill with mountains in background.,http://images.cocodataset.org/val2014/COCO_val2014_000000037751.jpg
+68,game => baseball => a baseball player holding a baseball bat => A young boy wearing a baseball uniform holding a baseball bat.,http://images.cocodataset.org/val2014/COCO_val2014_000000158227.jpg
+69,sports => football => football group of players playing ball. => A group of foot ball players standing on top of a football field.,http://images.cocodataset.org/val2014/COCO_val2014_000000188296.jpg
+70,water sports => surfer => surfing on the water => a group of people that is surfing on some water,http://images.cocodataset.org/val2014/COCO_val2014_000000224222.jpg
+71,passenger => train passenger => woman sitting under a train window. => An older woman riding a train while sitting under it's window.,http://images.cocodataset.org/val2014/COCO_val2014_000000308394.jpg
+72,vehicle => truck => orange truck on road => An orange truck driving down a street full of men in the back.,http://images.cocodataset.org/val2014/COCO_val2014_000000259571.jpg
+73,tall object => tree => tree branch against a blue sky in the background => A tree branch in the foreground with a clock tower set against a blue sky in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000294163.jpg
+74,flying object => an airplane => an airplane on the sky => a small yellow Cessna plane flying on a clear day,http://images.cocodataset.org/val2014/COCO_val2014_000000187745.jpg
+75,travel => air travel => the inside of an airplane => The inside of an airplane about half way back with television screens pulled down,http://images.cocodataset.org/val2014/COCO_val2014_000000224119.jpg
+76,animal related => cat => cat lying on a sink. => A cat lying down in a sink in a bathroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000327769.jpg
+77,sports => skiing => person on skis flies through the air => A person on skis flies through the air on a rope.,http://images.cocodataset.org/val2014/COCO_val2014_000000312720.jpg
+78,game => video game => a man and women with video games => a man and a woman are holding video game controllers,http://images.cocodataset.org/val2014/COCO_val2014_000000156924.jpg
+79,plates => plates of food => plates of food and glasses of wine => Plates  of food and glasses of wine sitting on a table,http://images.cocodataset.org/val2014/COCO_val2014_000000099039.jpg
+80,personal device => cell phone => woman holding cell phone. => A woman holding her cell phone tucked in a wool cover.,http://images.cocodataset.org/val2014/COCO_val2014_000000343706.jpg
+81,toilet => toilet seat => toilet seat cover => The toilet seat cover is made up of many colors.,http://images.cocodataset.org/val2014/COCO_val2014_000000263474.jpg
+82,activity => snowboarding => woman snowboarding down a slope => A woman wearing a white hat and white coat snowboarding down a slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000343937.jpg
+83,building => stone building => two people outside of a stone building. => Two people outside of a stone building near a red fire hydrant.,http://images.cocodataset.org/val2014/COCO_val2014_000000168337.jpg
+84,flying => bird => bird flying over the blue ocean. => A white and gray bird soaring over the blue ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000236690.jpg
+85,dining table => children sitting at the dining table => many children are sitting at the dining table => Many children are sitting at a dining table eating pizza.,http://images.cocodataset.org/val2014/COCO_val2014_000000122962.jpg
+86,tennis => tennis racket => woman with tennis racket in hand => A woman jumping with a tennis racket in her hand.,http://images.cocodataset.org/val2014/COCO_val2014_000000074092.jpg
+87,wildlife => elephant => three elephants standing next to a forest. => A family of three elephants standing next to a forest.,http://images.cocodataset.org/val2014/COCO_val2014_000000346905.jpg
+88,race => marathon => a man standing underneath a marathon sign. => A man standing underneath a marathon sign in the grass,http://images.cocodataset.org/val2014/COCO_val2014_000000097988.jpg
+89,tower => clock tower => a white clock tower on a tiled building. => A white clock tower at the top of a tiled building.,http://images.cocodataset.org/val2014/COCO_val2014_000000028285.jpg
+90,paint => splatter paint => bathroom splatter paint on a black seat. => Toilet with white splatter paint on a black seat in a restroom stall.,http://images.cocodataset.org/val2014/COCO_val2014_000000104803.jpg
+91,flying => kite => people watching kites in the air => A crowd of people gathered watching kites in the air,http://images.cocodataset.org/val2014/COCO_val2014_000000299553.jpg
+92,tall tower => tall clock tower => very tall clock tower with night view => A very tall clock tower towering over a city at night.,http://images.cocodataset.org/val2014/COCO_val2014_000000243034.jpg
+93,"bathroom => tiled bathroom => tiled bathroom with two sinks and two mirrors => There is an empty tiled bathroom, with two sinks and two mirrors.",http://images.cocodataset.org/val2014/COCO_val2014_000000104572.jpg
+94,hair color => blue hair => girl with blue hair => A girl with blue hair is taking a self portrait.,http://images.cocodataset.org/val2014/COCO_val2014_000000016598.jpg
+95,decorative object => decorative vase => a clear vase with bouquet with pink flowers => A. clear vase containing bouquet of pink with white tipped  tulips,http://images.cocodataset.org/val2014/COCO_val2014_000000140439.jpg
+96,vegetable => carrots => woman holding carrot at backyard. => A woman holding up a large carrot in a backyard.,http://images.cocodataset.org/val2014/COCO_val2014_000000276055.jpg
+97,"sandwich => grilled cheese sandwich => an grilled cheese sandwich, and bowl of soup. => A plate holding a grilled cheese sandwich and bowl of soup.",http://images.cocodataset.org/val2014/COCO_val2014_000000088269.jpg
+98,"outdoor => outdoor fair => game at an outdoor fair => A game at an outdoor fair called ""Ball In The Bog""",http://images.cocodataset.org/val2014/COCO_val2014_000000110042.jpg
+99,games => games between kids => children playing games outdoors => Several children playing a game together outside with boats in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000061418.jpg
+100,facial expression => smile => man smiles while putting a dog into an oven. => A man smiles maniacly while putting a dog into an oven.,http://images.cocodataset.org/val2014/COCO_val2014_000000064868.jpg
+101,transportation => plane => airport runway with a brown airliner => A brown jetliner sitting on top of an airport runway.,http://images.cocodataset.org/val2014/COCO_val2014_000000005477.jpg
+102,flying object => airplane => an airplane flying high. => An airplane flying high with a full moon in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000214205.jpg
+103,underground infrastructure => tunnel => glass tunnel => Glass tunnel walkway with a large clock at one end.,http://images.cocodataset.org/val2014/COCO_val2014_000000106563.jpg
+104,communications => texting => two young boys sitting on bench texting => Two young boys sitting on a bench texting on their cell phones.,http://images.cocodataset.org/val2014/COCO_val2014_000000073533.jpg
+105,sport => skateboard => young man is on skateboard in action => a young man is on his skateboard doing a trick,http://images.cocodataset.org/val2014/COCO_val2014_000000187585.jpg
+106,water sports => surfing => surfingman in blue water => A surfer is riding a wave in light blue water.,http://images.cocodataset.org/val2014/COCO_val2014_000000063154.jpg
+107,spray => water spray => person spraying water into a toilet bowl => A person spraying water into a toilet bowl in a tiled room.,http://images.cocodataset.org/val2014/COCO_val2014_000000206411.jpg
+108,sign => traffic sign => traffic signs on street. => a stop sign and two brown and white street signs,http://images.cocodataset.org/val2014/COCO_val2014_000000172856.jpg
+109,transport => train => train on rail road track. => A long train filled with tanker cars on rail road tracks.,http://images.cocodataset.org/val2014/COCO_val2014_000000221213.jpg
+110,human being => woman => woman on a wooden bench => A woman sitting on a wooden bench on a wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000067180.jpg
+111,fresh produce => fresh fruit => bowls of bananas and apple => Bowls of bananas and apples for sale in a cafe,http://images.cocodataset.org/val2014/COCO_val2014_000000158660.jpg
+112,messy => messy bed => messy bed next to bed with clothes on it => Messy bed next to bed with clothes on it in bright room.,http://images.cocodataset.org/val2014/COCO_val2014_000000329080.jpg
+113,accessory => scissors => scissors stand on roll of package tape. => A pair of black handled scissors rest on a roll of clear packing tape.,http://images.cocodataset.org/val2014/COCO_val2014_000000348012.jpg
+114,player => pitcher => pitcher holds his arm with his back => A pitcher holds his arm far behind him during a pitch.,http://images.cocodataset.org/val2014/COCO_val2014_000000345466.jpg
+115,large building => tower => large clock tower in front of a building => A large clock tower in front of a building next to a fountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000173057.jpg
+116,winter sport => ski => group of skis in the snow => A group of people standing on ski's in the snow.,http://images.cocodataset.org/val2014/COCO_val2014_000000053626.jpg
+117,bathroom sinks => white bathroom sinks => white bathroom sinks isolated on white. => A couple of white bathroom sinks sitting next to a toilet.,http://images.cocodataset.org/val2014/COCO_val2014_000000111951.jpg
+118,intersection => road intersection => crossing a street next to a bend traffic light => A group of people crossing a street next to a bend traffic light.,http://images.cocodataset.org/val2014/COCO_val2014_000000284445.jpg
+119,outdoor recreational activity => skier => a man skiing down a mountain side => A man skiing down a mountain side following a trail way.,http://images.cocodataset.org/val2014/COCO_val2014_000000128112.jpg
+120,tennis => tennis racket => sportsman holding tennis racket. => A man holding a tennis racket at the tennis courts.,http://images.cocodataset.org/val2014/COCO_val2014_000000321790.jpg
+121,beverage => wine => man sitting at table with glass of wine. => A man sitting at a table with wine glasses lined up in front of him.,http://images.cocodataset.org/val2014/COCO_val2014_000000244750.jpg
+122,seating area => bench => person sitting on a bench => A bench that has someone in costume sitting on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000181816.jpg
+123,"bedroom => modern bedroom => large bed in modern bedroom, with desk. => Large made up bed in modern bedroom, with small desk.",http://images.cocodataset.org/val2014/COCO_val2014_000000213422.jpg
+124,winter sports => snowboard => woman with a snowboard. => A woman that is standing on a snowboard in the snow.,http://images.cocodataset.org/val2014/COCO_val2014_000000089078.jpg
+125,bird => colorful bird => black and yellow bird with colorful beak => Black and yellow bird with colorful beak sitting on a branch.,http://images.cocodataset.org/val2014/COCO_val2014_000000167902.jpg
+126,storage => woman in the storage compartment => woman in the storage compartment of her motorbike. => A woman digging through the storage compartment on her moped.,http://images.cocodataset.org/val2014/COCO_val2014_000000146667.jpg
+127,table => table with plates => table with plates of food. => A table with plates of food that include pizza and salad.,http://images.cocodataset.org/val2014/COCO_val2014_000000189752.jpg
+128,skater => skateboard => man on a skateboard on the street. => A man sitting on top of a skateboard on a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000229553.jpg
+129,winter sports => man skiing => person skiing down hill => A person with green skis skiing down a big hill.,http://images.cocodataset.org/val2014/COCO_val2014_000000005529.jpg
+130,cooking vessel => oven => kitchen with an oven with a green rag => A kitchen with an oven with a green rag and an orange rag.,http://images.cocodataset.org/val2014/COCO_val2014_000000226984.jpg
+131,"building => brick building => large, old brick building with a clock tower. => A large, old brick building with a clock tower at one corner.",http://images.cocodataset.org/val2014/COCO_val2014_000000095069.jpg
+132,color => red => red stop sign => A red stop sign sitting under a couple of street signs.,http://images.cocodataset.org/val2014/COCO_val2014_000000126592.jpg
+133,winter recreation => skier => boy skiing down hill => A guy is having fun skiing down the slope of the hill.,http://images.cocodataset.org/val2014/COCO_val2014_000000314709.jpg
+134,human adult => woman => woman and her baby sitting on park bench => A woman and her child sitting nest to a man on a park bench.,http://images.cocodataset.org/val2014/COCO_val2014_000000087144.jpg
+135,sports equipment => tennis racket => couple of guys with tennis rackets => a couple of guys with tennis rackets waiting on a ball,http://images.cocodataset.org/val2014/COCO_val2014_000000216296.jpg
+136,bike => bicycle in front of red stucco => bicycle parked in front of red stucco and graffiti-covered door. => A red bicycle leaned against a red stucco building with a graffiti covered door.,http://images.cocodataset.org/val2014/COCO_val2014_000000203317.jpg
+137,entertainment => television => television with two men and a woman => A television with two men and a woman on the screen.,http://images.cocodataset.org/val2014/COCO_val2014_000000342367.jpg
+138,sign => road sign => road sign sits on a pole => a stop sign sittin on a pole that is somewhat broken,http://images.cocodataset.org/val2014/COCO_val2014_000000336587.jpg
+139,color spectrum => rainbow => rainbow at the end of the rain. => A rainbow at the end of a rain soaked road.,http://images.cocodataset.org/val2014/COCO_val2014_000000326627.jpg
+140,shoe => running shoes => running shoes on the end => A pair of running shoes sit on the end of a bed.,http://images.cocodataset.org/val2014/COCO_val2014_000000200252.jpg
+141,outdoor device => umbrella => umbrella in a market => An umbrella is opened over a table at an outdoor market.,http://images.cocodataset.org/val2014/COCO_val2014_000000136633.jpg
+142,metal => stainless steel => a room with a bunch of stainless steel items => A room with a bunch of stainless steel items and other accessories.,http://images.cocodataset.org/val2014/COCO_val2014_000000078266.jpg
+143,electronic equipment => laptop => man working on laptop => the man is working on his laptop while he waits for the train.,http://images.cocodataset.org/val2014/COCO_val2014_000000076547.jpg
+144,"meat => roasted meat => roasted meat topped with string beans on table => A plate holding seasoned meat, string beans and one fork.",http://images.cocodataset.org/val2014/COCO_val2014_000000243626.jpg
+145,sports equipment => skateboard => a man performs a trick on a skateboard => a man wearing a hat does a trick on  a skateboard,http://images.cocodataset.org/val2014/COCO_val2014_000000230983.jpg
+146,bed => bed in hotel => bed in a hotel with towels and soap laid out => A clean bed in a hotel room with towels and soap laid out,http://images.cocodataset.org/val2014/COCO_val2014_000000071451.jpg
+147,seated => seated at table => people seated at table => some people seated at a table with plates of food,http://images.cocodataset.org/val2014/COCO_val2014_000000189475.jpg
+148,women => young women => young women with umbrellas walking down a street. => A group of young women holding umbrellas while walking down a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000281759.jpg
+149,shelf => book shelf => books on all shelves => There are books on all three shelves of this book shelf.,http://images.cocodataset.org/val2014/COCO_val2014_000000183049.jpg
+150,microwave => microwave on the table => a microwave on a small table => a microwave on a small table with a device on top of it,http://images.cocodataset.org/val2014/COCO_val2014_000000283717.jpg
+151,clothing => suit => man in a suit standing in front of people. => A man in a suit that is standing in front of a group of people.,http://images.cocodataset.org/val2014/COCO_val2014_000000060932.jpg
+152,remote => remote control => remote control on wooden table. => A remote control on a wooden table in front of a television.,http://images.cocodataset.org/val2014/COCO_val2014_000000222735.jpg
+153,"office furniture => desk => small desk. => A small desk with lamp, phone, and laptop on it.",http://images.cocodataset.org/val2014/COCO_val2014_000000016439.jpg
+154,bread => french bread => slices of french bread on a plate. => Sliced french bread is on a plat that is lying on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000064084.jpg
+155,recreational activity => surfing => two surfers on the beach => two surfers walking along the ocean beach in the sand,http://images.cocodataset.org/val2014/COCO_val2014_000000108503.jpg
+156,table => dining table => dining table topped with pizza => A dining table has a large pizza and wine glasses.,http://images.cocodataset.org/val2014/COCO_val2014_000000047112.jpg
+157,beverages => wine glasses => two hands toasting wine glasses. => two hands are toasting some wine glasses and a person in a black jacket,http://images.cocodataset.org/val2014/COCO_val2014_000000085089.jpg
+158,flying view => flying over dirt trail => commercial plane above dirt trail => A commercial airplane above a dirt trail and crowd of people.,http://images.cocodataset.org/val2014/COCO_val2014_000000134886.jpg
+159,buffet => buffet table => people serving themselves food on a buffet table. => People serving themselves food from a buffet table in a private home.,http://images.cocodataset.org/val2014/COCO_val2014_000000182611.jpg
+160,water sports => wakeboard => person rides a wake board => a person riding a wake board on a body of water,http://images.cocodataset.org/val2014/COCO_val2014_000000232692.jpg
+161,"meat => sausage => a sausage on italian roll sandwich on white plate. => A sausage on italian roll sandwich, cut in half, is on a white plate, with a garnish.",http://images.cocodataset.org/val2014/COCO_val2014_000000226130.jpg
+162,"produce => fruit => variety of fruits on a platter => Variety of fruits such as bananas, oranges, and apples on a platter.",http://images.cocodataset.org/val2014/COCO_val2014_000000189078.jpg
+163,structure => metal structure => metal structure near side of a building => A view A large metal structure near the side of a building,http://images.cocodataset.org/val2014/COCO_val2014_000000045596.jpg
+164,flying objects => airplane => airplane in the sky => An airplane flies high above in the sky with telephone lines in the picture as well.,http://images.cocodataset.org/val2014/COCO_val2014_000000101787.jpg
+165,meter => parking meter => parking meter : different colored papers. => A parking meter with a set of different colored papers wrapped around it.,http://images.cocodataset.org/val2014/COCO_val2014_000000328683.jpg
+166,celebration => party hat => man with a party hat in his living room. => Man with a party hat happily playing on the Wii in his living room,http://images.cocodataset.org/val2014/COCO_val2014_000000302536.jpg
+167,cutting tool => knife => knife in a cutting act => A woman is cutting into a cake with a large knife.,http://images.cocodataset.org/val2014/COCO_val2014_000000158956.jpg
+168,airplane => huge passenger jet => group of large passenger jets at an airport. => A group of large passenger jets parked in front of an airport.,http://images.cocodataset.org/val2014/COCO_val2014_000000293324.jpg
+169,skate => skateboarding => a guy on skate board. => A guy wear a short khaki pants and brown tee is on a skate board.,http://images.cocodataset.org/val2014/COCO_val2014_000000172649.jpg
+170,toilet => white toilet => white toilet in the bathroom => A white toilet sitting in a bathroom next to a shower.,http://images.cocodataset.org/val2014/COCO_val2014_000000102644.jpg
+171,flying object => glider => small glider flying through the sky => A small glider flying through the sky with a pilot.,http://images.cocodataset.org/val2014/COCO_val2014_000000144114.jpg
+172,stuffed animal => stuffed teddy bears => man and woman holding stuffed teddy bears. => A man and a woman holding stuffed teddy bears near the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000330396.jpg
+173,clock => large clock => huge clock on a post. => The image has a large cubed clock on a post.,http://images.cocodataset.org/val2014/COCO_val2014_000000007888.jpg
+174,food => vegetables => three bowls filled with vegetables. => Three bowls filled with vegetables on top of a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000194940.jpg
+175,flying object => kite => man prepares to launch a colorful kite. => A man gets ready to launch a colorful kite on the beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000124442.jpg
+176,food => sandwiches => two sandwiches cut in half on a white plate. => Two sandwiches cut in half sitting on top of a white plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000227985.jpg
+177,sculptural => statue => statue with two stuffed animals sitting in a patch of dirt. => A statue with two stuffed animals on top of it sitting in a patch of dirt.,http://images.cocodataset.org/val2014/COCO_val2014_000000035963.jpg
+178,elderly => elderly woman => elder woman sitting with a crowd behind her. => An elderly woman sits on a bench with a crowd behind her.,http://images.cocodataset.org/val2014/COCO_val2014_000000186449.jpg
+179,"animals => dogs => a man with two dogs stretches on the beach => The man plays on the beach with his two dogs, one of which is a black standard poodle.",http://images.cocodataset.org/val2014/COCO_val2014_000000149568.jpg
+180,furniture => chair => big chair with a gray cat on top of it => A big chair with a gray cat laying on top of it next to a black dog.,http://images.cocodataset.org/val2014/COCO_val2014_000000241326.jpg
+181,group => group of men => group of men standing next to each other => A group of men standing and sitting next to each other.,http://images.cocodataset.org/val2014/COCO_val2014_000000109118.jpg
+182,cooling equipment => refrigerator => man inside refrigerator. => A man is inside the refrigerator with a carrot in his mouth.,http://images.cocodataset.org/val2014/COCO_val2014_000000215114.jpg
+183,child => young child => father and daughter sitting on the beach => The father and daughter are under an umbrella on the beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000066038.jpg
+184,electronic equipment => computer => laptop at desk => A laptop computer sitting on a desk next to a smart phone.,http://images.cocodataset.org/val2014/COCO_val2014_000000026465.jpg
+185,transportation hub => train station => train parked inside the train station. => A train parked inside of a train station next to a person.,http://images.cocodataset.org/val2014/COCO_val2014_000000186624.jpg
+186,snow sports => snowboard => snowboarding on the slope => A person wearing a helmet and goggles riding a snowboard down the slopes.,http://images.cocodataset.org/val2014/COCO_val2014_000000080273.jpg
+187,sleeping => sleeping on bed => man sleeps with covers. => A man is sleeping with the covers pulled up high.,http://images.cocodataset.org/val2014/COCO_val2014_000000111609.jpg
+188,sports => tennis => two tennis players on the court. => Two tennis players consult with the referee during a tennis match.,http://images.cocodataset.org/val2014/COCO_val2014_000000326248.jpg
+189,"decoration => decorated cake => decorated cake, empty drinking glasses => Lavishly decorated cake and empty drinking glasses await their tropical guests",http://images.cocodataset.org/val2014/COCO_val2014_000000277689.jpg
+190,toddler => toddler in room => toddler and cat are in a living room => A toddler and cat are in a living room with open curtains.,http://images.cocodataset.org/val2014/COCO_val2014_000000084362.jpg
+191,rust => rusty hydrant => the rusty hydrant sits on the concrete => A rusty and old looking fire hydrant sits on the concrete in front of a mural.,http://images.cocodataset.org/val2014/COCO_val2014_000000020107.jpg
+192,building => big building => big building atop hill => A big building perched atop a hill with a sign in the foreground.,http://images.cocodataset.org/val2014/COCO_val2014_000000127092.jpg
+193,office work space => white desk => white desk with paper on it => A white desk is covered with papers and has a silver lap top on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000302030.jpg
+194,vehicle => horse drawn carriage => horse drawn carriage in front of yellow building => A white horse drawn carriage in front of a yellow building.,http://images.cocodataset.org/val2014/COCO_val2014_000000140286.jpg
+195,shower => shower curtain => a shower curtain sits open in an empty bathroom => A shower curtain sits open in an empty and clean bathroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000006213.jpg
+196,outdoor activities => picnic => group of people sit at a picnic table. => A group of people sit at a picnic table in front of a house.,http://images.cocodataset.org/val2014/COCO_val2014_000000266768.jpg
+197,entertainment => tv => tv on a tv stand => A television is on a tv stand next to a bureau.,http://images.cocodataset.org/val2014/COCO_val2014_000000169076.jpg
+198,sink => sink in corner => sink in corner with mirror and light. => A white sink in a corner underneath a small mirror and light.,http://images.cocodataset.org/val2014/COCO_val2014_000000192047.jpg
+199,dessert => pie => the top of a pie has a crust => The top of a pie looks all crusty and good.,http://images.cocodataset.org/val2014/COCO_val2014_000000131379.jpg
+200,group => men => the group of men standing around a table of food. => A group of men standing around a table of food in wooden room.,http://images.cocodataset.org/val2014/COCO_val2014_000000157767.jpg
+201,hygiene => toothbrush => toothbrushes in a bathroom fixture => Two toothbrushes sits on the opposite side of each other on the double faucet sink.,http://images.cocodataset.org/val2014/COCO_val2014_000000241319.jpg
+202,device => laptop => tabletop with a laptop computer. => A table topped with a laptop computer next to a plate of food.,http://images.cocodataset.org/val2014/COCO_val2014_000000059598.jpg
+203,outdoor sporting equipment => skateboard => a man doing a trick on a skateboard. => A man doing a trick on a skateboard over some steps.,http://images.cocodataset.org/val2014/COCO_val2014_000000185950.jpg
+204,animal => polar bear => large white polar bear swimming in a pool => A large white polar bear swimming in a pool of blue water.,http://images.cocodataset.org/val2014/COCO_val2014_000000096960.jpg
+205,youth => teenagers => two teenagers playing video games => The two teens are playing video games in the rec center.,http://images.cocodataset.org/val2014/COCO_val2014_000000091500.jpg
+206,benches => wooden benches => a row of wooden benches. => A row of wooden benches sitting on the side of a road.,http://images.cocodataset.org/val2014/COCO_val2014_000000153527.jpg
+207,commuter vehicle => train => commuter train traveling down the track => A commuter train traveling down the tracks into the next station.,http://images.cocodataset.org/val2014/COCO_val2014_000000304365.jpg
+208,sports equipment => skateboard => the legs and feet of skateboarders are broken up to make one photograph. => Eleven photos of the legs and feet of skateboarders on skateboards are pieced together to make one photograph.,http://images.cocodataset.org/val2014/COCO_val2014_000000161978.jpg
+209,desk => wooden desk => wooden desk with a computer => A wooden desk with a laptop computer sitting on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000037740.jpg
+210,sports player => ball player => a group of ball players playing in the field. => a group of ball players playing on a field in front of an audience,http://images.cocodataset.org/val2014/COCO_val2014_000000072795.jpg
+211,dish => baked dish => baked dish on plate => A baked dish on a plate being touched by a woman.,http://images.cocodataset.org/val2014/COCO_val2014_000000307172.jpg
+212,large => large room => big room with a big window => a room with some big window on the side of it,http://images.cocodataset.org/val2014/COCO_val2014_000000347693.jpg
+213,heat source => oven => white oven and white refrigerator. => A white oven and a white refrigerator are in the kitchen.,http://images.cocodataset.org/val2014/COCO_val2014_000000000802.jpg
+214,tennis => tennis ball => woman serves a tennis ball => a woman raising her arms up so she can serve a tennis ball,http://images.cocodataset.org/val2014/COCO_val2014_000000127270.jpg
+215,toilet => toilet bowl => man climbing on toilet bowl => A man climbing on a toilet bowl in a closet,http://images.cocodataset.org/val2014/COCO_val2014_000000032817.jpg
+216,luggage => luggage carousel => man standing in front of luggage carousel. => A young man standing in front of a luggage carousel at an airport.,http://images.cocodataset.org/val2014/COCO_val2014_000000201418.jpg
+217,outdoor vehicle => motorcycle => motorcycles parked next to each other => This black and white photo shows many motorcycles parked next to each other,http://images.cocodataset.org/val2014/COCO_val2014_000000165681.jpg
+218,place => table => group of people sitting around table => A group of people sitting around a table filled with food.,http://images.cocodataset.org/val2014/COCO_val2014_000000127394.jpg
+219,gaming system => wii game => two women playing a wii game. => Two women are playing a Wii game at a banquet hall.,http://images.cocodataset.org/val2014/COCO_val2014_000000185890.jpg
+220,structure => brick building => red brick building with a street sign. => A red brick building with a street sign sitting outside of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000240767.jpg
+221,people => crowds => crowd of people stand near a man behind a bar with wine on it => A crowd of people stand near a man behind a bar with wine bottles on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000002685.jpg
+222,sign => street sign => street sign on a metal pole => a street sign on a metal pole next to a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000118405.jpg
+223,winter sports => skiing => man with skis and ski poles in a snowy slope => A man with skis and ski poles is standing next to a hill covered in snow,http://images.cocodataset.org/val2014/COCO_val2014_000000096825.jpg
+224,beverages => bottles => a display of bottles of soda in a store => A display in a store filled with lots of bottles of soda.,http://images.cocodataset.org/val2014/COCO_val2014_000000340697.jpg
+225,sport => tennis => game of tennis on courts. => A man playing a game of tennis on a tennis court.,http://images.cocodataset.org/val2014/COCO_val2014_000000098853.jpg
+226,group => large group => group of people sitting at table => A group of people sitting at a table with food.,http://images.cocodataset.org/val2014/COCO_val2014_000000015335.jpg
+227,"sandwich => sandwich, french fries => sandwich, french fries on white plate. => A sandwich, french fries, bowl of ketchup, onion slice, lettuce slice, tomato slice, and knife sit on the white plate.",http://images.cocodataset.org/val2014/COCO_val2014_000000009914.jpg
+228,tower => large clock tower => large clock tower in a street. => A large clock tower in the middle of a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000098392.jpg
+229,black and white => black and white scene => black and white scene with two couples under umbrellas and rain jackets. => A black and white scene with two couples under umbrellas and rain jackets sitting at a stadium.,http://images.cocodataset.org/val2014/COCO_val2014_000000267537.jpg
+230,seasonal => wintery => man in the snow. => A man standing in the snow while talking on a cell phone.,http://images.cocodataset.org/val2014/COCO_val2014_000000048564.jpg
+231,bathroom bathroom fixture => sink => old fashion sink with painting on the cover => An old fashion sink with the cover painted pink near the mirror.,http://images.cocodataset.org/val2014/COCO_val2014_000000164637.jpg
+232,snowy topography => snowy mountain => couple walking up snowy mountain => Couple of people walking up the snowy mountain with skis,http://images.cocodataset.org/val2014/COCO_val2014_000000054592.jpg
+233,snack => sandwich => half sandwich on a paper plate. => A half sandwich sitting on a paper plate located on a table,http://images.cocodataset.org/val2014/COCO_val2014_000000056288.jpg
+234,scene => street scene => male man walks in street => Man with food items walking on sidewalk while listening to audio.,http://images.cocodataset.org/val2014/COCO_val2014_000000063047.jpg
+235,vehicle => delivery van => delivery van parked outside in a parking lot. => A Frito Lay delivery van parked outside in a parking lot.,http://images.cocodataset.org/val2014/COCO_val2014_000000196759.jpg
+236,dessert => a plate of pastry => a plate of pastry on a wood table => a plate of pastry on a wood table and a glass of drink,http://images.cocodataset.org/val2014/COCO_val2014_000000242060.jpg
+237,officer => police officer => police officer lays a speed trap. => Police officer laying a speed trap for the purpose of writing a ticket.,http://images.cocodataset.org/val2014/COCO_val2014_000000230008.jpg
+238,wild animal => zebra => zebra chews a flower => A zebra chews a flower in a fenced in field.,http://images.cocodataset.org/val2014/COCO_val2014_000000172977.jpg
+239,luggage => rolling suitcase => rolling suitcase with a case attached in the handle => A rolling suitcase with smaller case attached to the handle of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000304545.jpg
+240,orange => long orange => orange train departing. => A long orange train traveling along a tree filled forest.,http://images.cocodataset.org/val2014/COCO_val2014_000000030675.jpg
+241,player => hitter => a batter has just got a hit against a pitcher => a batter after he has hit a pitched ball before he is going to run,http://images.cocodataset.org/val2014/COCO_val2014_000000153669.jpg
+242,marching => marching in one direction => crown marching in one direction => Crown marching in one direction in a lightly attended protest.,http://images.cocodataset.org/val2014/COCO_val2014_000000100723.jpg
+243,bed => bed with bedding => bed with white bedding => A bed in a bedroom with a white covering next to a doorway.,http://images.cocodataset.org/val2014/COCO_val2014_000000116479.jpg
+244,cheese => cheese bread => a plate of cheese bread next to bread sticks => A plate of cheese bread next to bread sticks and wine.,http://images.cocodataset.org/val2014/COCO_val2014_000000108253.jpg
+245,sport => sportsman => sportsman in blue shorts => A man in black shirt and blue shorts playing tennis.,http://images.cocodataset.org/val2014/COCO_val2014_000000133244.jpg
+246,living room => large living room => large living room with leather couches => A large living room with leather couches and wood flooring,http://images.cocodataset.org/val2014/COCO_val2014_000000128148.jpg
+247,electronic device => cell phone => two sets of hands of each others holding cell phone => Two sets of hands are each holding a cell phone while another hand in the background is holding a glass.,http://images.cocodataset.org/val2014/COCO_val2014_000000213035.jpg
+248,political leader => president => president in a suit => A president in a nice suit walking near a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000170955.jpg
+249,cooking system => stove => stove with spices => A stove that has a spice rack next to it.,http://images.cocodataset.org/val2014/COCO_val2014_000000035326.jpg
+250,cake => wedding cake => wedding cake with fruit on top => Bride and grooms arms cutting the wedding cake with fruit on top.,http://images.cocodataset.org/val2014/COCO_val2014_000000276434.jpg
+251,seating => dining table => kitchen with counter and dining table => A kitchen with a counter and a table with chairs.,http://images.cocodataset.org/val2014/COCO_val2014_000000034873.jpg
+252,glass => glass vase => a clear glass vase with flowers => A clear glass vase holding flowers in front of a mirror.,http://images.cocodataset.org/val2014/COCO_val2014_000000316666.jpg
+253,bench => wooden bench => wooden bench near the water => A wooden bench next to the water where a lot a boats are.,http://images.cocodataset.org/val2014/COCO_val2014_000000335529.jpg
+254,fruit => orange => sliced oranges covered in butterflies => A plate of bananas and sliced oranges covered in butterflies.,http://images.cocodataset.org/val2014/COCO_val2014_000000191761.jpg
+255,"outdoor activity => bike => woman rides bike on street, with a building in background => a woman riding a bike in the street and a building with a clock in the background",http://images.cocodataset.org/val2014/COCO_val2014_000000125572.jpg
+256,structure => tower => the clock is located on the tower. => The tower of the building has a clock displayed on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000113867.jpg
+257,dining table => formal dining table => a formal dining table in a formal style => a dinner table with four chairs two potted plants a fireplace,http://images.cocodataset.org/val2014/COCO_val2014_000000322352.jpg
+258,outdoor recreation => skiing => couple of people with skis => A couple of people with some skis in the snow.,http://images.cocodataset.org/val2014/COCO_val2014_000000273715.jpg
+259,cloth => cloth bag => cloth bag on keyboard. => A cloth bag is on the keyboard of a laptop.,http://images.cocodataset.org/val2014/COCO_val2014_000000086582.jpg
+260,electronic equipment => computer => computer on desk near chair => A laptop sitting on a desk next to a chair and another computer.,http://images.cocodataset.org/val2014/COCO_val2014_000000027620.jpg
+261,sea water => surfing => surfing on a wave => People on a wave using a surf board in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000045090.jpg
+262,toilet => pink toilet => close up of a toilet with a pink seat => a close up of a toilet with a pink seat and lid,http://images.cocodataset.org/val2014/COCO_val2014_000000332455.jpg
+263,water sports => surfing => man riding a surfboard on a wave => A man riding a surfboard on a wave in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000004765.jpg
+264,winter activity => winter sports => person on snowboard => A person in a blue coat is skiing down a slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000329827.jpg
+265,bed => bed on the hotel => a bed on a hotel is seen carrying sheets and pillows => A bed in a hotel is carrying sheets and pillows as it sit next to a lamp.,http://images.cocodataset.org/val2014/COCO_val2014_000000051738.jpg
+266,sports => playing tennis => man playing tennis. => A man standing on a tennis court holding a racquet.,http://images.cocodataset.org/val2014/COCO_val2014_000000005586.jpg
+267,baseball => professional baseball => professional baseball player swings swing in front of fans in stadium. => A professional baseball player takes a swing in front of fans in a crowded stadium.,http://images.cocodataset.org/val2014/COCO_val2014_000000203931.jpg
+268,stack => big stack => large stack of trunks and luggage on the pavement => A large stack of trunks and luggage on a sidewalk with people behind it.,http://images.cocodataset.org/val2014/COCO_val2014_000000179174.jpg
+269,person => young man => boy at crosswalk => A young man walking across a street at a crosswalk.,http://images.cocodataset.org/val2014/COCO_val2014_000000277005.jpg
+270,kitchen => kitchen table and chairs => image of a kitchen and a table and chairs under lamp => Partial picture of a kitchen and a table and chairs under a lamp.,http://images.cocodataset.org/val2014/COCO_val2014_000000221708.jpg
+271,"sportsman => skier => a skier makes his way up the mountain => A skier makes his way up a snowy hill, eschewing the lift.",http://images.cocodataset.org/val2014/COCO_val2014_000000357742.jpg
+272,animals => elephants => group of people riding on elephants => Group of people riding on seats on top of elephants.,http://images.cocodataset.org/val2014/COCO_val2014_000000132796.jpg
+273,signal => traffic signal => traffic signal is at junction. => The traffic signal is at the intersection near a large building.,http://images.cocodataset.org/val2014/COCO_val2014_000000260266.jpg
+274,brush => brushing of teeth => man taking selfie while brushing teeth => A man taking a selfie while brushing his teeth and looking in the mirror,http://images.cocodataset.org/val2014/COCO_val2014_000000123480.jpg
+275,cutting tool => knife => man and woman holding a knife => Man and woman holding a knife up to a small cake.,http://images.cocodataset.org/val2014/COCO_val2014_000000263969.jpg
+276,wildlife => bear => bear is walking in an area => A bear is walking in an area with a lot of foliage.,http://images.cocodataset.org/val2014/COCO_val2014_000000110972.jpg
+277,"sandwich => peanut butter sandwich => peanut butter sandwich, ham, and tomatoes. => A plate with a peanut butter sandwich, ham, and tomatoes.",http://images.cocodataset.org/val2014/COCO_val2014_000000170595.jpg
+278,dessert => cake => cake with a missing section => a cake with a section missing sitting next to a burning candle,http://images.cocodataset.org/val2014/COCO_val2014_000000216636.jpg
+279,event => a match => a football match on tv => A football game on TV reflects in a bathroom mirror.,http://images.cocodataset.org/val2014/COCO_val2014_000000017379.jpg
+280,food preparation equipment => blender => the blender is used to liquify vegetables. => The blender is being used to liquify vegetables  for sauces during dinner preparation.,http://images.cocodataset.org/val2014/COCO_val2014_000000320706.jpg
+281,water sports => surfboard => man in a wetsuit sits on a surfing board on the water => A man in a wet suit stands on a surfboard and rows with a paddle.,http://images.cocodataset.org/val2014/COCO_val2014_000000001490.jpg
+282,winter => snowy landscape => people enjoying snowy landscape => Some people are walking in the snow and having fun.,http://images.cocodataset.org/val2014/COCO_val2014_000000210388.jpg
+283,water vessels => boat => person on boat in the lake. => A man and a dog on a boat in the water.,http://images.cocodataset.org/val2014/COCO_val2014_000000171611.jpg
+284,scene => countryside => a group of people walking through a field => A group of people walking through a field under the sun.,http://images.cocodataset.org/val2014/COCO_val2014_000000107851.jpg
+285,"stainless => stainless steel => a black stove, stainless steel refrigerator, white cupboards => This kitchen has a black stove, stainless steel refrigerator and white cupboards.",http://images.cocodataset.org/val2014/COCO_val2014_000000237928.jpg
+286,snow sports => skier => woman skiing down a hill => there is a woman about to ski down a hill,http://images.cocodataset.org/val2014/COCO_val2014_000000061747.jpg
+287,scissors => large scissors => large pair of scissors => A giant pair of scissors sitting on top of camera boxes.,http://images.cocodataset.org/val2014/COCO_val2014_000000351096.jpg
+288,concrete => concrete wall => a group of three people on cement wall => A group of three people sitting next to each other on a cement wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000326970.jpg
+289,parking => the parking meter => the parking meter stands in front => A parking meter sitting in front of a brick building.,http://images.cocodataset.org/val2014/COCO_val2014_000000162366.jpg
+290,animals => sheep => sheep are in the field => Three sheep are grazing in the field next to the water.,http://images.cocodataset.org/val2014/COCO_val2014_000000340272.jpg
+291,bed => bed with a pad of paper => bed with a pad of paper on top. => A bed in front of a window with a pad of paper on top.,http://images.cocodataset.org/val2014/COCO_val2014_000000082765.jpg
+292,wildlife => elephant => elephant ridden by people wearing blue => A group of elephants being ridden by people wearing blue,http://images.cocodataset.org/val2014/COCO_val2014_000000320743.jpg
+293,art => painting => painting of a man smiling behind a table => A painting of a man smiling behind a table with fruit,http://images.cocodataset.org/val2014/COCO_val2014_000000110999.jpg
+294,sports => baseball => player with ball on a baseball => a baseball game with a batter swinging the bat and fielder awaiting the ball,http://images.cocodataset.org/val2014/COCO_val2014_000000188465.jpg
+295,facial hair => beard => man with beard on top of plate. => A man with beard holding up a plate of food.,http://images.cocodataset.org/val2014/COCO_val2014_000000045550.jpg
+296,baseball => baseball uniform => boy dressed in a baseball uniform => a boy dressed in a baseball uniform standing in a field.,http://images.cocodataset.org/val2014/COCO_val2014_000000213171.jpg
+297,winter activity => skier => skier skiing along a rail => a man skiing along a rail on the snowy hill,http://images.cocodataset.org/val2014/COCO_val2014_000000131556.jpg
+298,clock => clock on street => large clock above buildings on street. => A large clock on the side of a building above cars on the street.,http://images.cocodataset.org/val2014/COCO_val2014_000000191013.jpg
+299,glass => glassware => glass bowl with rocks and weeds => a glass fish bowl with rocks and weeds in it.,http://images.cocodataset.org/val2014/COCO_val2014_000000298904.jpg
+300,table => wooden table => wooden table with a vase of flowers => A wooden table with a vase of flowers and a television.,http://images.cocodataset.org/val2014/COCO_val2014_000000166166.jpg
+301,fruit => banana => the telephone has a banana. => The telephone has a banana where the receiver should be.,http://images.cocodataset.org/val2014/COCO_val2014_000000012667.jpg
+302,winter sports => skier => a skier rides on a snowy slope => A young man riding skis across a snow covered slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000280779.jpg
+303,sign => a red and white sign => a red and white sign of a car => a red and white sign a car and some buildings,http://images.cocodataset.org/val2014/COCO_val2014_000000236845.jpg
+304,woman => mother => mother standing behind two baby boys => A mother standing behind two baby boys sitting at a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000123633.jpg
+305,busy => busy street => a crowd of people on a busy city street => A bunch of pedestrians as well as cars are on a busy city street.,http://images.cocodataset.org/val2014/COCO_val2014_000000142472.jpg
+306,living space => living room => a living room with a mat on a floor => A living room with a mat on a floor and a book shelf filled with books.,http://images.cocodataset.org/val2014/COCO_val2014_000000294783.jpg
+307,nationality => canadian => canadian flags flying over a fence => Canadian flags flying along a fence where people are standing in snow.,http://images.cocodataset.org/val2014/COCO_val2014_000000154087.jpg
+308,machinery => train engine => train engine approaches a switch. => A train engine approaches a switch in a train yard.,http://images.cocodataset.org/val2014/COCO_val2014_000000270297.jpg
+309,sink => sink in white => sink in white in a kitchen => A white sink sitting beneath a window in a kitchen.,http://images.cocodataset.org/val2014/COCO_val2014_000000262682.jpg
+310,"animals => cows => cows cows near a windmill => Black and white photo of cows near a windmill, house and shed.",http://images.cocodataset.org/val2014/COCO_val2014_000000221155.jpg
+311,fruit => oranges => whole oranges => A group of peeled and whole oranges in a bowl.,http://images.cocodataset.org/val2014/COCO_val2014_000000351609.jpg
+312,dog => large brown dog => large brown dog stands near a white fence => A large brown dog standing on the side of a white wood fence.,http://images.cocodataset.org/val2014/COCO_val2014_000000029393.jpg
+313,street => city street => a city street with multiple bildings => a city street with multiple bildings and a street light,http://images.cocodataset.org/val2014/COCO_val2014_000000221754.jpg
+314,"sitting => sitting on bench => two women sit on a park bench => two women sitting on a park bench, one looking over her shoulder",http://images.cocodataset.org/val2014/COCO_val2014_000000227478.jpg
+315,rail => train rides => train rides on blue background => A blue and white train is moving on the rails.,http://images.cocodataset.org/val2014/COCO_val2014_000000006040.jpg
+316,sports equipment => frisbee => a person trying to reach a frisbee in a field => A person trying to reach a Frisbee in a field with high brown grass.,http://images.cocodataset.org/val2014/COCO_val2014_000000259097.jpg
+317,television => television screen => tv with a man and woman => A TV with a man and a woman on it's display.,http://images.cocodataset.org/val2014/COCO_val2014_000000187249.jpg
+318,bathroom fixtures => toilet and bathtub => toilet and bathtub in a dark room => A toilet and bathtub in a dark room with abnormal plumbing.,http://images.cocodataset.org/val2014/COCO_val2014_000000023666.jpg
+319,scooter => motor scooter => motor scooter man sits in traffic => Man wearing a helmet sitting on a motor scooter in traffic.,http://images.cocodataset.org/val2014/COCO_val2014_000000031817.jpg
+320,healthy => healthy food => healthy foods on platters => These platters display healthy food choices of two entrees with a side  vegetable and fruit,http://images.cocodataset.org/val2014/COCO_val2014_000000015254.jpg
+321,dining out => outdoor eating => a group of people enjoying an outdoor meal. => A group of people holding umbrellas eating a meal outdoors.,http://images.cocodataset.org/val2014/COCO_val2014_000000275198.jpg
+322,signs => street signs => two street signs on a stone wall. => Two street signs on the corner of a stone wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000333697.jpg
+323,birthday => birthday hat => small boy wore birthday hat => A small boy with a birthday hat on holding a tennis racket.,http://images.cocodataset.org/val2014/COCO_val2014_000000200421.jpg
+324,sign => stop sign => red stop sign on top of the planter => A red stop sign sitting on top of a green planter.,http://images.cocodataset.org/val2014/COCO_val2014_000000283038.jpg
+325,animals => zebra => zebras and rhinos out in the wild => Zebras and rhinos out in the wild on a sunny day,http://images.cocodataset.org/val2014/COCO_val2014_000000110211.jpg
+326,salad => leafy salad => leafy salad with broccoli and peas => Green salad with broccoli and peas with fork and bowl,http://images.cocodataset.org/val2014/COCO_val2014_000000209142.jpg
+327,dining facility => dining table => table with plates with corn => A table with plates of food that include corn and fruit.,http://images.cocodataset.org/val2014/COCO_val2014_000000210520.jpg
+328,kitchen => kitchen with oven => a kitchen with wood cabinets and stove top. => A kitchen with old wooden cabinets and a stove top oven.,http://images.cocodataset.org/val2014/COCO_val2014_000000307145.jpg
+329,business => businessman => business man in a chair while smiling => A businessman is sitting in a chair and smiling for a photo.,http://images.cocodataset.org/val2014/COCO_val2014_000000163682.jpg
+330,"color => orange-colored => the bathroom was orange => a bathroom with some orange walls, and a black and white counter",http://images.cocodataset.org/val2014/COCO_val2014_000000136033.jpg
+331,facial expression => glares => a man glares as others look on => a man glares as other people behind him look on,http://images.cocodataset.org/val2014/COCO_val2014_000000252776.jpg
+332,"kitchen => open kitchen => this open plan kitchen has light wooden cabinets, beige countertops, and stainless steel appliances => A kitchen has light wooden colored cabinetry, beige countertops, and stainless steel appliances in an open concept house.",http://images.cocodataset.org/val2014/COCO_val2014_000000091615.jpg
+333,kite => kite on a beach => kite on beach during the day => A man holding a kite on a beach during the day.,http://images.cocodataset.org/val2014/COCO_val2014_000000050326.jpg
+334,bathroom => bathroom stall => toilet sitting in a white bathroom stall => A white toilet sitting in a bathroom stall next to a TP dispenser.,http://images.cocodataset.org/val2014/COCO_val2014_000000234413.jpg
+335,flying => kite => kite flying in the background. => People are standing around while a kite is being flown.,http://images.cocodataset.org/val2014/COCO_val2014_000000143068.jpg
+336,wheeled vehicle => tricycle => a home made trike sits in the driveway => a home made three wheeled trike sitting in a driveway,http://images.cocodataset.org/val2014/COCO_val2014_000000007386.jpg
+337,vegetables => carrots => woman standing with her hand on carrots. => In lady standing with her hand on carrots in a market.,http://images.cocodataset.org/val2014/COCO_val2014_000000313562.jpg
+338,trash => trash container => trashbag in restroom next to sink. => A black trash bag in a restroom next to a sink.,http://images.cocodataset.org/val2014/COCO_val2014_000000051598.jpg
+339,child => young boy => boy riding a skateboard => A young boy riding a skateboard across a parking lot.,http://images.cocodataset.org/val2014/COCO_val2014_000000106912.jpg
+340,clock => tall clock => tall clock next to fence => A tall clock sitting next to a fence and a forest.,http://images.cocodataset.org/val2014/COCO_val2014_000000179653.jpg
+341,"cup => red cup => red cup on the table => A table with five red cups, a pineapple and some oranges on a plate",http://images.cocodataset.org/val2014/COCO_val2014_000000045472.jpg
+342,beach activity => surfing => an image of a man riding his surfboard => an image of a man riding the ocean waves on his surfboard,http://images.cocodataset.org/val2014/COCO_val2014_000000334530.jpg
+343,group => men => men being pulled by a group of dogs. => Men on bikes are getting pulled by a group of dogs.,http://images.cocodataset.org/val2014/COCO_val2014_000000107226.jpg
+344,building => house => a bedroom in an old house => A bedroom in an old house that is being renovated,http://images.cocodataset.org/val2014/COCO_val2014_000000039956.jpg
+345,christmas => christmas tree => a man in front of a christmas tree => A man in front of a Christmas tree with his dog.,http://images.cocodataset.org/val2014/COCO_val2014_000000117525.jpg
+346,woman => old woman => old lady is in front of a table => an old woman is in front of some food on a table,http://images.cocodataset.org/val2014/COCO_val2014_000000017899.jpg
+347,traffic safety => stop sign => stop sign with red background => A red stop sign sitting on the side of a tall building.,http://images.cocodataset.org/val2014/COCO_val2014_000000213593.jpg
+348,water activities => surfing => wave rider on a surfboard => A man on a surfboard riding a wave in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000051976.jpg
+349,technology => computer => imac desktop => A picture of an iMac desktop next to a Mac laptop on a desk.,http://images.cocodataset.org/val2014/COCO_val2014_000000001503.jpg
+350,flying vessel => jet => a jet flying across the sky => A jet with lots of colors leaving a trail in the sky.,http://images.cocodataset.org/val2014/COCO_val2014_000000090631.jpg
+351,fighter => fighter jet => fighter jets flying by in the air => a formation of fighter jets flying by in the air,http://images.cocodataset.org/val2014/COCO_val2014_000000131386.jpg
+352,celebration => birthday => a boy blowing candles on a birthday cake => A boy getting ready to blow out candles on a birthday cake.,http://images.cocodataset.org/val2014/COCO_val2014_000000180101.jpg
+353,signs => street signs => street sign in a cluster. => A cluster of street signs hang on a street pole.,http://images.cocodataset.org/val2014/COCO_val2014_000000310622.jpg
+354,vehicle => cargo van => cargo van parked in front of smart car => A large cargo van parked in front of a smart car.,http://images.cocodataset.org/val2014/COCO_val2014_000000141597.jpg
+355,outdoor device => umbrella => a small child with an open umbrella => a small child with an open umbrella on the ground,http://images.cocodataset.org/val2014/COCO_val2014_000000198489.jpg
+356,skateboard => skateboard on a stone wall => young skateboard on a stone wall => A young man riding a skateboard on a stone wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000013546.jpg
+357,color => yellow and blue => yellow and blue plant in the sky => A yellow and blue plant flying in a gray sky.,http://images.cocodataset.org/val2014/COCO_val2014_000000052017.jpg
+358,dessert => cake => young boy slices into a cake. => A young boy cuts into a cake shaped like a skateboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000025096.jpg
+359,architecture => modern building => modern building with skylight and fire hydrant. => A view of a modern building with skylight and a fire hydrant.,http://images.cocodataset.org/val2014/COCO_val2014_000000266082.jpg
+360,object => statue => statue sits on a bench => A woman sitting on a bench next to a statue sitting on a bench.,http://images.cocodataset.org/val2014/COCO_val2014_000000295713.jpg
+361,transport => bus => a bus going to crosstown => A bus going to crosstown parked on side of road.,http://images.cocodataset.org/val2014/COCO_val2014_000000122606.jpg
+362,transportation => train => man sitting on train at table => A man sitting on a train at a table using a laptop.,http://images.cocodataset.org/val2014/COCO_val2014_000000014226.jpg
+363,snow sport => skier => woman standing on skiis => a woman standing on skiis while posing for the camera,http://images.cocodataset.org/val2014/COCO_val2014_000000000785.jpg
+364,lifting => lifting legs => man lifting leg over a briefcase => a person standing on cement lift his leg over a brief case,http://images.cocodataset.org/val2014/COCO_val2014_000000112110.jpg
+365,device => game console => a woman playing a game console. => A woman holding a game controller as her friend watches.,http://images.cocodataset.org/val2014/COCO_val2014_000000320642.jpg
+366,horse => horse drawn transportation => horse drawn carriage on race track. => A man riding a horse drawn carriage on a race track.,http://images.cocodataset.org/val2014/COCO_val2014_000000029187.jpg
+367,engine => train engine => train engine runs between cars => The train engine is followed by a line of open cars.,http://images.cocodataset.org/val2014/COCO_val2014_000000344816.jpg
+368,bottle => water bottle => man with a red water bottle => A man has a red water bottle up to his mouth.,http://images.cocodataset.org/val2014/COCO_val2014_000000284991.jpg
+369,youth => young males => two young males playing in front of tv. => Two young males playing a video game together in front of a tv.,http://images.cocodataset.org/val2014/COCO_val2014_000000110449.jpg
+370,kitchen => modern kitchen => modern kitchen with wood floors => A contemporary kitchen featuring wood floors and a stainless steel oven.,http://images.cocodataset.org/val2014/COCO_val2014_000000308799.jpg
+371,computer => desktop computer => desktop computer with a monitor => A desktop computer with it's monitor sitting on it's side.,http://images.cocodataset.org/val2014/COCO_val2014_000000038576.jpg
+372,table => dining table => the dining table near the kitchen => The dining table near the kitchen has a bowl of fruit on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000037777.jpg
+373,vehicle => dodge pickup => dodge pickup sits parked next to another pickup. => An older Dodge pickup sits parked next to another older pickup.,http://images.cocodataset.org/val2014/COCO_val2014_000000148719.jpg
+374,person => a girl => little girl in an apron and chef hat => a little girl in a blue apron and chefs hat and a girl in a red apron and hat,http://images.cocodataset.org/val2014/COCO_val2014_000000290163.jpg
+375,pizza => pizza slice => a half eaten pizza slices on a plate => A half eaten slice of pizza is on a plate with a knife and fork.,http://images.cocodataset.org/val2014/COCO_val2014_000000173004.jpg
+376,lights => street lights => street lights on a street at an intersection. => Street lights and a lit up street sign at an intersection.,http://images.cocodataset.org/val2014/COCO_val2014_000000008762.jpg
+377,cake => cake cutting => a man and female with cake cuts in their hands. => a man and female standing side by side with a cake cutter in their hand,http://images.cocodataset.org/val2014/COCO_val2014_000000092939.jpg
+378,sweet => chocolate => chocolate sugar topped doughnut. => A chocolate frosted doughnut sitting on top of a plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000255824.jpg
+379,busy street => busy city street => people walking across a busy city street. => A group of people walking across a busy city street.,http://images.cocodataset.org/val2014/COCO_val2014_000000184324.jpg
+380,bird => bird walking => bird walking by a sidewalk next to patches of grass => Two small birds walking on a sidewalk next to patches of grass.,http://images.cocodataset.org/val2014/COCO_val2014_000000122927.jpg
+381,marine animals => seahorses => seahorses are photos taken from above. => Seahorses are photos hoped into a blue sky above sand dunes.,http://images.cocodataset.org/val2014/COCO_val2014_000000186345.jpg
+382,animal imagery => elephant => elephant walking in grass => An elephant walking on a grassy area during the day.,http://images.cocodataset.org/val2014/COCO_val2014_000000155571.jpg
+383,tennis => tennis player => woman in the tennis court => A woman is standing on a tennis court with a racket.,http://images.cocodataset.org/val2014/COCO_val2014_000000090284.jpg
+384,transportation => highway => highway of traffic => A highway of traffic with several transit buses riding down it.,http://images.cocodataset.org/val2014/COCO_val2014_000000210273.jpg
+385,sportsperson => baseball player => baseball player in action. => There is a baseball player who swung for the ball,http://images.cocodataset.org/val2014/COCO_val2014_000000119445.jpg
+386,blanket => woman on blanket => woman with umbrella on blanket => A woman holding an umbrella sitting on a blanket next to two dogs.,http://images.cocodataset.org/val2014/COCO_val2014_000000182805.jpg
+387,group => herd => the small herd of buffalo resting => A small herd of buffalo resting on the ither side of the stream.,http://images.cocodataset.org/val2014/COCO_val2014_000000247838.jpg
+388,office furniture => office desk => an office desk with a row of books and a desktop computer and laptop computer. => An office desk with a row of books and a desktop computer and laptop computer on the desk.,http://images.cocodataset.org/val2014/COCO_val2014_000000026564.jpg
+389,high-performance aircraft => jet => airplane : large large jet airplane at airport => A large jet airplane being loaded with cargo at an airport.,http://images.cocodataset.org/val2014/COCO_val2014_000000281693.jpg
+390,green => green street sign => green street sign in front of a playground => A green street sign next to a dirt field by a playground.,http://images.cocodataset.org/val2014/COCO_val2014_000000146498.jpg
+391,clothing => shirt => a black shirt on a hanger with blue curtains => a black shirt on a hanger blue curtains a bed and pillow,http://images.cocodataset.org/val2014/COCO_val2014_000000193494.jpg
+392,watery area => harbor => harbor filled with boats under a full moon. => A harbor filled with boats under a full moon bathing them in moon light.,http://images.cocodataset.org/val2014/COCO_val2014_000000079837.jpg
+393,water => surfing => surfing in waves on a surfboard => A person in a wetsuit riding a wave on a surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000148739.jpg
+394,vegetables => fresh vegetable => fresh vegetables are stacked together. => A large number of fresh vegetables have been stacked together.,http://images.cocodataset.org/val2014/COCO_val2014_000000034257.jpg
+395,vehicle => cars => cars waiting in traffic at a stop light => Many cars are waiting in traffic at a stop light.,http://images.cocodataset.org/val2014/COCO_val2014_000000255917.jpg
+396,outdoor activity => frisbee => man catching a white frisbee. => A man wearing a blue shirt catching a white frisbee.,http://images.cocodataset.org/val2014/COCO_val2014_000000328238.jpg
+397,cold winter conditions => snowy terrain => person skiing across a snow filled plain. => A person cross country skiing across a snow filled plain.,http://images.cocodataset.org/val2014/COCO_val2014_000000220764.jpg
+398,building => enormous building => large building in construction => there is a large building under construction and many parking meters,http://images.cocodataset.org/val2014/COCO_val2014_000000230450.jpg
+399,public transportation => bus => bus on road => A bus and other cars are traveling on a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000329614.jpg
+400,pizza => pizza pie => close-up of a pizza pie => A close up of a pizza pie sitting on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000160012.jpg
+401,vase => glass vase => glass vase with flowers and drink => a glass vase with three pink flowers and a drink,http://images.cocodataset.org/val2014/COCO_val2014_000000132375.jpg
+402,person => woman => woman sitting at table => A woman sitting at a table in front of a pile of luggage,http://images.cocodataset.org/val2014/COCO_val2014_000000351810.jpg
+403,outdoor equipment => snowboard => man with snowboard in a picture. => The man is posing for a picture with his snowboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000326128.jpg
+404,vegetable => broccoli => broccoli salad in oil and vinegar => A broccoli and pasta salad with oil and vinegar dressing.,http://images.cocodataset.org/val2014/COCO_val2014_000000104612.jpg
+405,vase => glass vase. => glass vase with flowers near a big window => A large glass vase with some flowers near a big window.,http://images.cocodataset.org/val2014/COCO_val2014_000000087742.jpg
+406,living room => cozy living room => a cozy living room with small potted plants => A cozy living room with small potted plants and a flat screen.,http://images.cocodataset.org/val2014/COCO_val2014_000000039477.jpg
+407,gaming console => wii's remote => little kid plays with the wii remote => a little kid playing a game with the wii driving remote,http://images.cocodataset.org/val2014/COCO_val2014_000000139077.jpg
+408,people sitting => sitting in the park => man sitting on park benches => There is a group of four men sitting on park benches.,http://images.cocodataset.org/val2014/COCO_val2014_000000190753.jpg
+409,player => tennis player => tennis player during games => A tennis player using his shirt to dry his face during a tournament game.,http://images.cocodataset.org/val2014/COCO_val2014_000000240023.jpg
+410,public transportation => train => train parked next to an overhang => A yellow and blue train is next to an overhang.,http://images.cocodataset.org/val2014/COCO_val2014_000000232538.jpg
+411,celebration => celebratory moment => man blowing out birthday cake. => A man blowing out a birthday cake with many candles.,http://images.cocodataset.org/val2014/COCO_val2014_000000211825.jpg
+412,bird => bird on a boat => bird bird on a boat floating on a lake. => A bird sitting on the window sill of a boat floating on a lake.,http://images.cocodataset.org/val2014/COCO_val2014_000000032811.jpg
+413,flower => rose => rose in a vase filled with water on top of a table => An orange reddish rose in a vase filled with water on top of a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000249025.jpg
+414,brush => baby brush => baby girl with pink brush. => A baby girl is holding a pink brush as she scratches her head.,http://images.cocodataset.org/val2014/COCO_val2014_000000066886.jpg
+415,recreational area => beach => a man standing at top of a beach. => A man standing on top of a beach holding a surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000246883.jpg
+416,traffic => traffic light => a traffic light is on near a forest => A traffic light suspended over a street near  a forest.,http://images.cocodataset.org/val2014/COCO_val2014_000000269942.jpg
+417,plate => three plates => 3 plates of food in the shape of a log => Three plates of food showing a meal in the shape of log covered with vegetables.,http://images.cocodataset.org/val2014/COCO_val2014_000000138241.jpg
+418,sitting => sitting at table => person on table with cup => A person sitting at table with a cup looking at a cell phone.,http://images.cocodataset.org/val2014/COCO_val2014_000000285047.jpg
+419,food => vegetable => veggies slice up into pieces => a pan full of vegetables slice up small with a some seasoning on top,http://images.cocodataset.org/val2014/COCO_val2014_000000308430.jpg
+420,bathroom => bathroom with sink => a cluttered bathroom with sink in foreground => Cluttered bathroom with sink in foreground and towel on a rack.,http://images.cocodataset.org/val2014/COCO_val2014_000000197796.jpg
+421,sculpture => large statue => large statue of elephants. => A large statue of an elephant is attached to a business sign.,http://images.cocodataset.org/val2014/COCO_val2014_000000166563.jpg
+422,consumer product => laptop => laptop on top of the table - computer => An open laptop computer sitting on top of a wooden table.,http://images.cocodataset.org/val2014/COCO_val2014_000000178469.jpg
+423,portable device => laptop => hands on laptop with documents. => A hand is holding a cd by a laptop computer.,http://images.cocodataset.org/val2014/COCO_val2014_000000181499.jpg
+424,wave => sea wave => waves crashing on the shore => Waves crashing on the shore with a surfer in the midst,http://images.cocodataset.org/val2014/COCO_val2014_000000270122.jpg
+425,color => orange => orange fire hydrant with male couple => A orange fire hydrant with a couple of men standing around it.,http://images.cocodataset.org/val2014/COCO_val2014_000000140556.jpg
+426,animals => giraffe => giraffe standing next to a zebra => A giraffe standing next to a zebra on a field.,http://images.cocodataset.org/val2014/COCO_val2014_000000163290.jpg
+427,winter sports => snowboarder => snowboarder sits in the snow => A snow boarder sits in the snow looking at the camera.,http://images.cocodataset.org/val2014/COCO_val2014_000000193429.jpg
+428,cooking gear => grill => person working on grill => Someone is working on grilling some food on a grill.,http://images.cocodataset.org/val2014/COCO_val2014_000000258883.jpg
+429,pole => street pole => black street pole => The black street pole has three different signs on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000270386.jpg
+430,cooling unit => fridge => a man looking in a refrigerator => A man looking in the refrigerator with a cat also looking inside,http://images.cocodataset.org/val2014/COCO_val2014_000000117908.jpg
+431,skateboard => skateboarder => skateboarder on a railing in front of buildings. => A skateboarder grinds down a railing in front of buildings.,http://images.cocodataset.org/val2014/COCO_val2014_000000084492.jpg
+432,shirt => yellow shirt => a man in yellow shirt => A man in yellow shirt and black shorts playing a game of tennis.,http://images.cocodataset.org/val2014/COCO_val2014_000000323895.jpg
+433,large vehicle => truck => a large truck with a wooden building on the side. => A large colorful truck with a with a wooden building on it's back.,http://images.cocodataset.org/val2014/COCO_val2014_000000184338.jpg
+434,"sink => kitchen sink => kitchen sink with dishwasher => A kitchen with a sink, dishwasher and some boxes on the counter.",http://images.cocodataset.org/val2014/COCO_val2014_000000165257.jpg
+435,kiss => kisses for woman => young man kisses the girl. => The young man is kissing the young woman on top of her head.,http://images.cocodataset.org/val2014/COCO_val2014_000000078843.jpg
+436,road => dirt road => dirt roads with giraffes and antelope in the foreground. => Dirt roads on a hilly landscape with giraffes and antelope in the foreground.,http://images.cocodataset.org/val2014/COCO_val2014_000000296317.jpg
+437,skating => skateboard => people on the sidewalk skateboard => a person riding a skate board on a city street,http://images.cocodataset.org/val2014/COCO_val2014_000000279278.jpg
+438,refrigerator => refrigerator freezer => refrigerator freezers in rows => A row of refrigerator freezers sitting next to each other.,http://images.cocodataset.org/val2014/COCO_val2014_000000349837.jpg
+439,plate => person holding plate => person holding plate with food in one hand => a person holding a plate with food on it in one hand and  a spoon in the other.,http://images.cocodataset.org/val2014/COCO_val2014_000000327592.jpg
+440,water sports => surfer => a surfer has fallen off his board => a surfer that has fallen off of his surf board,http://images.cocodataset.org/val2014/COCO_val2014_000000220584.jpg
+441,stuff => pile => pile of different ingredients => A pile of different ingredients sitting next to a  metal blender.,http://images.cocodataset.org/val2014/COCO_val2014_000000300233.jpg
+442,watercraft => canoe => large canoe on lake with trees on the shore. => Large canoe with many people on lake with trees lining shore.,http://images.cocodataset.org/val2014/COCO_val2014_000000186873.jpg
+443,artistic skill => painting => painting of table => A painting of a table with fruit on top of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000184791.jpg
+444,pizza => pizza - opened => man - opens pizza box => A man opens pizza box and stares at the camera.,http://images.cocodataset.org/val2014/COCO_val2014_000000248400.jpg
+445,personal belongings => handbag => girl with handbag on her shoulder. => Girl bending down with hand bag on her shoulder petting two dogs.,http://images.cocodataset.org/val2014/COCO_val2014_000000246454.jpg
+446,bowl => orange bowl => orange bowl filled with noodles => An orange bowl filled with lots of noodles and beef.,http://images.cocodataset.org/val2014/COCO_val2014_000000091654.jpg
+447,outdoor recreation => skier => man skiing through snowy field. => A man in a blue coat skiing through a snowy field.,http://images.cocodataset.org/val2014/COCO_val2014_000000266409.jpg
+448,event => party => night scene of a party outside. => Night scene of a party outside showing man on a bike and a blender on the ground.,http://images.cocodataset.org/val2014/COCO_val2014_000000167486.jpg
+449,instrument => piano => piano in corner of living room. => A baby grand piano sits in the corner of the living room.,http://images.cocodataset.org/val2014/COCO_val2014_000000089045.jpg
+450,child => boy => a boy sitting cross legged on the porch with a cake. => A boy sitting cross legged on a porch with a cake in front of him.,http://images.cocodataset.org/val2014/COCO_val2014_000000102820.jpg
+451,rain => rainy day => a black and white picture of people in the rain under umbrella => a black and white picture of people walking in the rain under an umbrella,http://images.cocodataset.org/val2014/COCO_val2014_000000278848.jpg
+452,toothbrush => baby toothbrush => a infant holding a baby toothbrush in his hand => A infant holding a baby toothbrush in his hand looking at it.,http://images.cocodataset.org/val2014/COCO_val2014_000000311394.jpg
+453,clock => clock on wall => ancient clock on wall => An old clock hangs on the wall and gives the time.,http://images.cocodataset.org/val2014/COCO_val2014_000000167353.jpg
+454,"office furniture => desk => desk filled with paperwork and technology. => a desk filled with some paperwork, a laptop and a computer with two monitors",http://images.cocodataset.org/val2014/COCO_val2014_000000255165.jpg
+455,beverage => soda => cup of soda => A cup with soda in front of a panini with a side of greens.,http://images.cocodataset.org/val2014/COCO_val2014_000000311303.jpg
+456,sitting => sitting in front of laptop => a man sitting in front of a laptop computer => a man sitting at a desk in front of a laptop computer,http://images.cocodataset.org/val2014/COCO_val2014_000000022371.jpg
+457,young => young man => young man stands inside with an umbrella. => A young man stands inside with an umbrella pouring rain.,http://images.cocodataset.org/val2014/COCO_val2014_000000032861.jpg
+458,cloth => tablecloth => serving white plate on tablecloth => A white plate served on a multi colored table cloth,http://images.cocodataset.org/val2014/COCO_val2014_000000104669.jpg
+459,traffic traffic => stop sign => a stop sign on a public street. => A stop sign on a post at a public street.,http://images.cocodataset.org/val2014/COCO_val2014_000000025593.jpg
+460,tile => ceramic tile => ceramic tile in bathroom => The bathroom is painted a light blue and has pink ceramic tile that adorns the shower wall along with a maple color vanity and door.,http://images.cocodataset.org/val2014/COCO_val2014_000000010977.jpg
+461,animal => bear => a bear sleeps in a hammock => A bear sleeps in a hammock made of heavy canvas.,http://images.cocodataset.org/val2014/COCO_val2014_000000205776.jpg
+462,"transportation => train => a blue train that goes up the tracks. => a blue train going up the tracks, lots of trees around.",http://images.cocodataset.org/val2014/COCO_val2014_000000039670.jpg
+463,gaming => wii gaming => couple of men playing wii game. => A couple of men standing in a living room holding Wii game controllers.,http://images.cocodataset.org/val2014/COCO_val2014_000000324258.jpg
+464,sports maneuver => flip trick => guy jumping off the steps doing a flip trick => Guy jumps off the steps doing a flip trick with his skateboard,http://images.cocodataset.org/val2014/COCO_val2014_000000068628.jpg
+465,toy => frisbee => two people try to catch a frisbee => two people jumping up to try to catch a frisbee,http://images.cocodataset.org/val2014/COCO_val2014_000000163118.jpg
+466,sign => red sign => red stop sign => A red stop sign sitting above a no parking sign.,http://images.cocodataset.org/val2014/COCO_val2014_000000347163.jpg
+467,hygiene => dental hygiene => dental girl brushing teeth => A girl brushing her teeth holding up her other hand trying to shield from the camera.,http://images.cocodataset.org/val2014/COCO_val2014_000000324614.jpg
+468,dental equipment => toothbrush => toothbrush with toothpaste on counter. => A toothbrush with toothpaste next to a tube on a counter.,http://images.cocodataset.org/val2014/COCO_val2014_000000160666.jpg
+469,device => smartphone => man holding smartphone in front of face => A man holding a silver flip phone open in front of his face.,http://images.cocodataset.org/val2014/COCO_val2014_000000120420.jpg
+470,"children => toddlers => vintage closeup shot shows the seated child with a big smile and with a big toy bear - a toddler sitting right next to the second toddler => A vintage closeup shows a chair with a toddler with a big smile and a big toy bear seated right  next to a second toddler with a semi-smile, holding what appears to be a coin purse.",http://images.cocodataset.org/val2014/COCO_val2014_000000321333.jpg
+471,baseball => batter => batter prepares to hit baseball. => A batter prepares to hit a baseball that has just been thrown.,http://images.cocodataset.org/val2014/COCO_val2014_000000311002.jpg
+472,flying => kites => people flying kites outdoors. => People flying kites in the sand on a windy beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000288430.jpg
+473,sportsman => tennis player => player with tennis racket and ball => A tennis player wearing white holds out his tennis racket as a ball floats in the air near it.,http://images.cocodataset.org/val2014/COCO_val2014_000000080022.jpg
+474,infrastructure => road => road between buildings with water hydrant => A road between the buildings where a big car is parked.A water hydrant is also seen.,http://images.cocodataset.org/val2014/COCO_val2014_000000088432.jpg
+475,lights => light pole => people sitting next to light pole => Many people are sitting on two benches next to a light pole.,http://images.cocodataset.org/val2014/COCO_val2014_000000301135.jpg
+476,bed => bed topped with pillows => bed topped with three white pillows. => A bed topped with three white pillows covered in a canopy.,http://images.cocodataset.org/val2014/COCO_val2014_000000066523.jpg
+477,stuffed animal => stuffed bear => stuffed tedddy bear with large teeth => A girl holding a stuffed teddy bear that has large teeth to her face.,http://images.cocodataset.org/val2014/COCO_val2014_000000286660.jpg
+478,"lunch => healthy lunch => a box of healthy lunches. => The lunchbox has a cold sandwich, strawberry yogurt and orange juice.",http://images.cocodataset.org/val2014/COCO_val2014_000000251119.jpg
+479,male => bald man => bald man with glasses => A bald man with glasses stares forward while wearing a robot tie.,http://images.cocodataset.org/val2014/COCO_val2014_000000244496.jpg
+480,sport => surfing => surfing on wave in the ocean. => A man is surfing on a wave in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000292908.jpg
+481,narrow => narrow street => a narrow street lined with stone buildings. => A intersection and a narrow street lined with stone buildings.,http://images.cocodataset.org/val2014/COCO_val2014_000000276720.jpg
+482,bikes => motorbikes => bikes and motorcycles parked on a street. => A group of bikes and motorcycles parked on a city street.,http://images.cocodataset.org/val2014/COCO_val2014_000000291634.jpg
+483,street => street corner => street corner with store => A street corner with a store that shows open for 24 hour.,http://images.cocodataset.org/val2014/COCO_val2014_000000301376.jpg
+484,"pole => street pole => street pole with street signs => a pole with street lights, signs and wires attached to it",http://images.cocodataset.org/val2014/COCO_val2014_000000088218.jpg
+485,"furniture => couch => a room with a couch, television and a table set. => A room with a couch, table set with dinnerware and a television.",http://images.cocodataset.org/val2014/COCO_val2014_000000029596.jpg
+486,dish => dessert dish => dessert dish with sprigs => A dessert dish includes sprigs for garnish on this banana dish.,http://images.cocodataset.org/val2014/COCO_val2014_000000188906.jpg
+487,public transportation => bus => bus with a bicycle rack near the curb => A public transportation bus near a curb with a bicycle rack.,http://images.cocodataset.org/val2014/COCO_val2014_000000311909.jpg
+488,kitchen => white kitchen => a white kitchen in the midst of repair => A white kitchen with wood cabinets in the midst of repairs.,http://images.cocodataset.org/val2014/COCO_val2014_000000248111.jpg
+489,"ship, => huge ship => huge ship washed up on beach => Large ship washed up ashore on a long stretch of beach.",http://images.cocodataset.org/val2014/COCO_val2014_000000188689.jpg
+490,baseball => baseball player => baseball player bobble head next to two computer monitors. => A baseball player bobble head next to two computer monitors on a desk.,http://images.cocodataset.org/val2014/COCO_val2014_000000127987.jpg
+491,sweet => pastries => a plate of pastries for cooking => Several pastries sitting on aluminum foil next to a bowl with a knife and spatula in it.,http://images.cocodataset.org/val2014/COCO_val2014_000000095707.jpg
+492,electric appliance => fridge => fridge : 4 plastic bottles => a refrigerator with four plastic bottles and one is dark blue,http://images.cocodataset.org/val2014/COCO_val2014_000000132329.jpg
+493,outdoor activity => skateboarding => two skateboarders on a road. => Two people skateboarding down a roadway in a downhill descent.,http://images.cocodataset.org/val2014/COCO_val2014_000000122217.jpg
+494,youth => little boy => little boy riding bicycle => A little boy riding his bike and wearing a helmet,http://images.cocodataset.org/val2014/COCO_val2014_000000210299.jpg
+495,electronic device => mobile phone camera => person taking picture with mobile phone camera. => Person in a parka taking pictures with a mobile phone camera.,http://images.cocodataset.org/val2014/COCO_val2014_000000292488.jpg
+496,tray => tray with two plates => tray with two plates and a drink => A tray holding two plates with sandwiches and chips and a drink.,http://images.cocodataset.org/val2014/COCO_val2014_000000120777.jpg
+497,shoe => snow shoe => group of people with snow shoes => A group of people on snow shoes posing for a photo.,http://images.cocodataset.org/val2014/COCO_val2014_000000041990.jpg
+498,snowy slopes => snowboard => man riding snowboard => A man riding a snowboard down a snow covered slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000117645.jpg
+499,view => view from window => view from the window of a jet airplane => a view of mountains from the window of a jet airplane,http://images.cocodataset.org/val2014/COCO_val2014_000000208208.jpg
+500,desert => desert on plate => desert on a plate with a spoon => A desert on a plate with a spoon on the side of the plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000345941.jpg
+501,bed => twin bed => twin beds folded and stuffed. => Two twin beds pushed together with white blankets and pillows on top of them.,http://images.cocodataset.org/val2014/COCO_val2014_000000068286.jpg
+502,sportsperson => skier => skier skis down slope => A person is trying to ski down a snowy slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000080671.jpg
+503,weather => rainy night => street in rainy evening. => A picture of a street light through a rainy lens.,http://images.cocodataset.org/val2014/COCO_val2014_000000144706.jpg
+504,child => little boy => small boy about to hit baseball. => A little boy about to hit a baseball during a game.,http://images.cocodataset.org/val2014/COCO_val2014_000000012639.jpg
+505,stuff => stuffed animals => stuffed animals in bed => A group of stuffed animals sitting next to each other in bed.,http://images.cocodataset.org/val2014/COCO_val2014_000000113403.jpg
+506,sport => skateboarder => skateboarder jumping off a small ramp. => A skateboarder jumping off a small ramp places on the street.,http://images.cocodataset.org/val2014/COCO_val2014_000000190841.jpg
+507,transportation => car => car waiting at the red stop light. => A car is waiting at a red stop light at night.,http://images.cocodataset.org/val2014/COCO_val2014_000000283037.jpg
+508,messy => messy face => child with a messy face eating food => A child with a messy face eating a plate of food with hands,http://images.cocodataset.org/val2014/COCO_val2014_000000212166.jpg
+509,"electronic device => smart phone => smart phone with digital camera. => A smart phone, digital camera and mobile phone on display.",http://images.cocodataset.org/val2014/COCO_val2014_000000228981.jpg
+510,cooking => outdoor cooking => man standing outside grill of grill => a man standing in front of the grill of a  hot dog stand.,http://images.cocodataset.org/val2014/COCO_val2014_000000213255.jpg
+511,train => train on tracks => train on the tracks in the middle of the field => Small train running down the tracks in the middle of a field.,http://images.cocodataset.org/val2014/COCO_val2014_000000050165.jpg
+512,snow sports => skiers on the slope => group of people skiers on slope => A group of people on slope with snowboards and skis.,http://images.cocodataset.org/val2014/COCO_val2014_000000094944.jpg
+513,highway => highway exit sign. => large road exit sign on the highway. => A large and green interstate exit sign above a road.,http://images.cocodataset.org/val2014/COCO_val2014_000000041488.jpg
+514,"food => stew => stew in white bowl => A bowl of stew in a white bowl, being held by a person.",http://images.cocodataset.org/val2014/COCO_val2014_000000105335.jpg
+515,piece of furniture => table => table has cases on top => A table has suitcases leaning on it and clothes on top.,http://images.cocodataset.org/val2014/COCO_val2014_000000115245.jpg
+516,hill => grassy hill => grassy hill side with animals => A grassy hill side with some animals in the distance,http://images.cocodataset.org/val2014/COCO_val2014_000000172547.jpg
+517,kitchen => small kitchen with fire extinguisher => small kitchen with fire extinguisher at far corner => Fish eye angle view of small kitchen with fire extinguisher at far end.,http://images.cocodataset.org/val2014/COCO_val2014_000000056127.jpg
+518,public transportation => subway => the long subway with people. => a long subway with people in it is lit up,http://images.cocodataset.org/val2014/COCO_val2014_000000290293.jpg
+519,technology => computer => young guy using computer => A young guy using his computer and talking on his phone.,http://images.cocodataset.org/val2014/COCO_val2014_000000166478.jpg
+520,signage => stop sign => stop sign visible on road => A red stop sign sitting on the side of a road.,http://images.cocodataset.org/val2014/COCO_val2014_000000193884.jpg
+521,sport => tennis player => tennis player in a match => A woman tennis player is about to return the ball.,http://images.cocodataset.org/val2014/COCO_val2014_000000179487.jpg
+522,skier => cross country skier => cross country skier on a sunny day => A cross country skier on the slopes on a sunny day,http://images.cocodataset.org/val2014/COCO_val2014_000000252507.jpg
+523,wedding => wedding dress => a young girl in the foreground and a woman in a wedding dress. => A young girl in the foreground and a woman in a bridal dress and other adults in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000003934.jpg
+524,cave => cave in nature => cave in a rock wall => A cave in a rock wall near a body of water.,http://images.cocodataset.org/val2014/COCO_val2014_000000308753.jpg
+525,"dessert => ice cream => ice cream, cake and dessert set on table. => A table filled with a cake and paper plates with ice cream and cake.",http://images.cocodataset.org/val2014/COCO_val2014_000000261116.jpg
+526,household fixture => toilet => bathroom toilet seat in a bathroom => A blue toilet sitting next to a bathroom sink in a bathroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000232649.jpg
+527,outdoor activities => skier => a group of skiers are riding down the slope => A group of people riding skis across a snow covered slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000341719.jpg
+528,bathroom => bathroom sink => bathroom vanity sink with a large mirror. => A bathroom vanity sink with a large mirror and hairdryer on the wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000178028.jpg
+529,clock => large clock => large clock against the side. => A large clock hanging off the side of a building .,http://images.cocodataset.org/val2014/COCO_val2014_000000150930.jpg
+530,sitting => sitting down => man sitting down near table. => A man that is  sitting down on a bench in front of a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000142620.jpg
+531,tennis => tennis ball => man serving a tennis ball. => A man serving a tennis ball on top of a tennis court.,http://images.cocodataset.org/val2014/COCO_val2014_000000088970.jpg
+532,activity => sport => person riding skateboard in skate park => A young person riding a skateboard at a skate park.,http://images.cocodataset.org/val2014/COCO_val2014_000000149375.jpg
+533,aeroplane => classic plane => old planes on display in a museum => A group of old planes on display in a museum,http://images.cocodataset.org/val2014/COCO_val2014_000000071711.jpg
+534,human being => face => pierced face => An image of a very cute girl with face piercings.,http://images.cocodataset.org/val2014/COCO_val2014_000000085329.jpg
+535,sanitary product => toilet => toilet with three seashells => A toilet with three seashells sitting on top of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000323202.jpg
+536,hydrant => fire hydrant => fire hydrant with cartoon face drawn on it => A yellow fire hydrant with a cartoon face drawn on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000147338.jpg
+537,"pink => pink toy => a child in the pink toy cell phone. => A child holding a pink toy cell phone with ""Princess Aurora"" inside it.",http://images.cocodataset.org/val2014/COCO_val2014_000000052413.jpg
+538,young person => young girl => blond girl holding her baseball bat and smiling => A blond girl holding a baseball bat and smiling with her hand over her mouth.,http://images.cocodataset.org/val2014/COCO_val2014_000000270474.jpg
+539,warning => warning sign => warning sign for high water => A warning sign for high water is on the side of the road.,http://images.cocodataset.org/val2014/COCO_val2014_000000344611.jpg
+540,rain => rainy street => a rainy street with buildings and cars. => A city street with buildings and cars on a rainy day.,http://images.cocodataset.org/val2014/COCO_val2014_000000287291.jpg
+541,office furniture => brown desk => brown desk with wooden chair => A brown desk with a wooden chair in a classroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000017182.jpg
+542,traffic symbol => stop sign => a woman walks by a stop sign => a woman walking by a stop sign while holding a bag,http://images.cocodataset.org/val2014/COCO_val2014_000000343496.jpg
+543,outdoor object => umbrella => 6 open umbrellas. => 6 open umbrellas of various colors hanging on a line,http://images.cocodataset.org/val2014/COCO_val2014_000000231088.jpg
+544,"burger => burger patties => burger patties on a plate. => A plate of food featuring burger patties, potatoes and carrots.",http://images.cocodataset.org/val2014/COCO_val2014_000000313783.jpg
+545,bears => baby bears => two baby bears are playing in the lake. => Two baby bears are playing with each other in the lake.,http://images.cocodataset.org/val2014/COCO_val2014_000000194506.jpg
+546,"livestock => goat => goat, standing on top of rock pile => Goat standing on top of rock pile with grass growing on it",http://images.cocodataset.org/val2014/COCO_val2014_000000016502.jpg
+547,clock => coo coo clock => coo coo clock is side view. => A coo coo clock mounted to the side of a wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000161642.jpg
+548,"chicken => chicken and beans => chicken and beans on a plate. => Plate of food that includes chicken, beans and a pickle.",http://images.cocodataset.org/val2014/COCO_val2014_000000181796.jpg
+549,beach => sandy beach => sandy beach with surfboards => A sandy beach with surf boards sitting on top of it,http://images.cocodataset.org/val2014/COCO_val2014_000000016451.jpg
+550,vehicle => bus => the front road bus in a city. => A city bus is driving down the road next to buildings.,http://images.cocodataset.org/val2014/COCO_val2014_000000344029.jpg
+551,"electronic device => computer => a computer monitor next to a keyboard. => A computer monitor next to a keyboard, laptop and a mouse.",http://images.cocodataset.org/val2014/COCO_val2014_000000340894.jpg
+552,watercraft => sailboat => row boat on the coast => A rowboat with paddles and no passengers is on the beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000220858.jpg
+553,adult => older man => older man poses for a picture. => An older man with a bow tie happily poses for a picture.,http://images.cocodataset.org/val2014/COCO_val2014_000000274219.jpg
+554,games => video games => two girls play ninendo wii => Two girls play Ninendo Wii while standing in front of a couch.,http://images.cocodataset.org/val2014/COCO_val2014_000000182155.jpg
+555,yellow => yellow clock => white and yellow clock with red roof => The white and yellow clock with a red roof reads 11:44.,http://images.cocodataset.org/val2014/COCO_val2014_000000267351.jpg
+556,yield => yield and left turn => yield and left turn sign. => A yield and left turn sign on the side of a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000093154.jpg
+557,fruit => orange => oranges in a bowl => A close up of oranges and apples in a bowl.,http://images.cocodataset.org/val2014/COCO_val2014_000000192871.jpg
+558,traffic => traffic lights => traffic stopped at the traffic light => A street that has all the traffic stopped at a traffic light.,http://images.cocodataset.org/val2014/COCO_val2014_000000032941.jpg
+559,sporting person => skier => skiers on a snowy surface => a group of people riding skis on a snowy surface,http://images.cocodataset.org/val2014/COCO_val2014_000000003255.jpg
+560,round => round pan => round pan for cooking => there is a round pan covered with aluminum in the stove,http://images.cocodataset.org/val2014/COCO_val2014_000000344795.jpg
+561,participant => player => player to hit ball => A baseball player is getting ready to hit a ball.,http://images.cocodataset.org/val2014/COCO_val2014_000000279774.jpg
+562,jet aircraft => jumbo jet => jumbo jet airplanes fly over a bridge. => A sky photo to jumbo jet airplanes over a bridge.,http://images.cocodataset.org/val2014/COCO_val2014_000000001761.jpg
+563,outdoor => barbecue => barbecue topped with lots of sausages => A BBQ topped with lots of sausages sitting side by side.,http://images.cocodataset.org/val2014/COCO_val2014_000000083531.jpg
+564,electronic device => computer => computer with image of lighting => A computer with an image of lighting on the screen.,http://images.cocodataset.org/val2014/COCO_val2014_000000353096.jpg
+565,streamlined => streamlined view => the streamlined view of the railroad cars => The streamlined view of railroad cars traveling along the track.,http://images.cocodataset.org/val2014/COCO_val2014_000000263299.jpg
+566,water activity => surfing => surfing the wave => A man on a surfboard surfing a wave in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000082715.jpg
+567,livestock => cattle => herd of cattle with a steeple behind. => A herd of cattle sitting in front of a church with a steeple.,http://images.cocodataset.org/val2014/COCO_val2014_000000206135.jpg
+568,stuff => stuffed animal => stuffed animals and dolls => A group of children are holding various stuffed animals and dolls.,http://images.cocodataset.org/val2014/COCO_val2014_000000276018.jpg
+569,people => a group of people => a group of people milling about inside a large space. => A group of people milling about inside a large space in the winter.,http://images.cocodataset.org/val2014/COCO_val2014_000000282298.jpg
+570,outdoor activity => water skiing => water skier flying through the air. => A water skier performing a trick while flying through the air.,http://images.cocodataset.org/val2014/COCO_val2014_000000172935.jpg
+571,lightweight vehicle => small truck => tiny truck on a beach. => A scooter and tiny truck at a beach dry dock.,http://images.cocodataset.org/val2014/COCO_val2014_000000345027.jpg
+572,plate => white plate => white plate with a sandwich on it => A white plate with a sandwich and sides on it,http://images.cocodataset.org/val2014/COCO_val2014_000000304984.jpg
+573,moment => capturing moment => man taking picture => A man taking a pic of a sandwich on a table,http://images.cocodataset.org/val2014/COCO_val2014_000000350148.jpg
+574,game => game of tennis => game of tennis with a racket. => A person playing a game of tennis with a racket.,http://images.cocodataset.org/val2014/COCO_val2014_000000033005.jpg
+575,clothing => suit => man wearing suit and tie with red hat. => A man wearing a suit and tie and red hat with a silver buckle.,http://images.cocodataset.org/val2014/COCO_val2014_000000058539.jpg
+576,personal attire => suit => man in suit in a suit standing next to a computer => A man in a suit standing next to a control board and computer.,http://images.cocodataset.org/val2014/COCO_val2014_000000009483.jpg
+577,ball => tennis ball => man throws tennis ball out. => A man throws a tennis ball and poses his racquet.,http://images.cocodataset.org/val2014/COCO_val2014_000000205105.jpg
+578,sports equipment => frisbee => person holding a yellow frisbee => A man holding onto a yellow frisbee while having long hair.,http://images.cocodataset.org/val2014/COCO_val2014_000000009378.jpg
+579,bread => flatbread => two flatbread pieces covered with different ingredients => two flatbread pieces covered with different ingredients in between a flight of beers,http://images.cocodataset.org/val2014/COCO_val2014_000000074733.jpg
+580,waste disposal => rubbish truck => rubbish removal truck and two vehicles behind => a blue rubbish removal truck and two vehicles behind it,http://images.cocodataset.org/val2014/COCO_val2014_000000295420.jpg
+581,bird => sparrow => two little sparrows stand on a table => two little sparrows standing on a table by a knife,http://images.cocodataset.org/val2014/COCO_val2014_000000277051.jpg
+582,computer => the macintosh => a white macintosh next to duct tape. => A white Macintosh next to duct tape and red scissors.,http://images.cocodataset.org/val2014/COCO_val2014_000000324715.jpg
+583,sport equipment => baseball bat => baseball bat in hand => a man is swinging a baseball bat at a game,http://images.cocodataset.org/val2014/COCO_val2014_000000129945.jpg
+584,"graffiti => graffiti - infected building => a graffiti - filled building in an urban setting => A graffiti-ridden building in an urban setting, a fire hydrant at curbside.",http://images.cocodataset.org/val2014/COCO_val2014_000000008899.jpg
+585,terrifying => creepy person => scary - face woman => A woman wearing a creepy  mask standing next to a child.,http://images.cocodataset.org/val2014/COCO_val2014_000000168883.jpg
+586,tasty => a tasty looking => tasty pasta dish => A very tasty looking dish of pasta with some broccoli.,http://images.cocodataset.org/val2014/COCO_val2014_000000352900.jpg
+587,happiness => laughing => two women laughing in kitchen. => Two women are laughing in the kitchen while they cook.,http://images.cocodataset.org/val2014/COCO_val2014_000000084241.jpg
+588,"outdoor activity => sports => a group of men playing sports. => Several men are playing sports on a field near some trees, wall, bus, and several buildings in the background.",http://images.cocodataset.org/val2014/COCO_val2014_000000130699.jpg
+589,refrigerator => open fridge => open fridge next to counter => an open refrigerator in a kitchen next to a counter,http://images.cocodataset.org/val2014/COCO_val2014_000000073326.jpg
+590,gauge => round gauges => round gauges in a very dark place => A couple of round gauges in a very dark place.,http://images.cocodataset.org/val2014/COCO_val2014_000000154339.jpg
+591,kitchen => unfinished kitchen => unfinished kitchen with a microwave and other small kitchen appliances. => A picture of an unfinished back splash in the kitchen with a microwave and other small kitchen appliances.,http://images.cocodataset.org/val2014/COCO_val2014_000000215644.jpg
+592,silhouette => silhouette against the sea => two people silhouette against the sea. => Two people sitting on a bench silhouetted against the sea.,http://images.cocodataset.org/val2014/COCO_val2014_000000058393.jpg
+593,vehicles => motorcycle => a group of young people riding motorcycles. => A group of young people riding motorcycles near a river.,http://images.cocodataset.org/val2014/COCO_val2014_000000203389.jpg
+594,sauce => tomato sauce => tomato sauce with wooden ladle => A blue pot of tomato sauce with a wooden ladle.,http://images.cocodataset.org/val2014/COCO_val2014_000000356347.jpg
+595,"hotel => hotel room => hotel room bed with white linens => A hotel room bed with white linens, and a white desk beside it.",http://images.cocodataset.org/val2014/COCO_val2014_000000050828.jpg
+596,toilet => white urinal => white urinal with white tiles => a white urinal white tiles a red table with a dish,http://images.cocodataset.org/val2014/COCO_val2014_000000325114.jpg
+597,youthful => boy => a little boy holds a white frisbee => A little boy wearing a red shirt holding a white frisbee.,http://images.cocodataset.org/val2014/COCO_val2014_000000328337.jpg
+598,outdoor recreation => frisbee => male in red shirt plays with frisbee => A young man in a red shirt is throwing a frisbee.,http://images.cocodataset.org/val2014/COCO_val2014_000000325991.jpg
+599,fruit => mango => mango and orange => Raw mango and orange and ripe bananas in a bowl,http://images.cocodataset.org/val2014/COCO_val2014_000000352618.jpg
+600,stainless steel => stainless steel sink => stainless steel kitchen sink. => A stainless steel kitchen sink on a black granite countertop.,http://images.cocodataset.org/val2014/COCO_val2014_000000229311.jpg
+601,slender => slender building => slender building shaped behind pole clock. => A slender high rise building is fashioned behind a pole clock.,http://images.cocodataset.org/val2014/COCO_val2014_000000058655.jpg
+602,weather => rainy outdoors => woman standing with umbrella in a rainy weather => A woman standing in the rain with an umbrella with a herd of deer behind her.,http://images.cocodataset.org/val2014/COCO_val2014_000000253742.jpg
+603,tower => clock tower => large clock tower structure lit up in early sky => a large clock tower structure lit up in the early night sky,http://images.cocodataset.org/val2014/COCO_val2014_000000217425.jpg
+604,sport => skateboarding => a young boy riding a skateboard. => A young boy riding a skate board inside a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000187990.jpg
+605,tropical plant => palm => palm trees in the foreground of a picture => Palm trees are in the foreground of a picture with a clock tower standing above them.,http://images.cocodataset.org/val2014/COCO_val2014_000000308531.jpg
+606,cooking device => microwave => red and black microwave => there is a red and black microwave on a counter,http://images.cocodataset.org/val2014/COCO_val2014_000000319696.jpg
+607,street => big street => big street covered with traffic lights => A large and wide street covered in lots of traffic lights.,http://images.cocodataset.org/val2014/COCO_val2014_000000166391.jpg
+608,player => baseball player => baseball player swinging at ball => Batter taking swing at ball at home plate during sanctioned game.,http://images.cocodataset.org/val2014/COCO_val2014_000000133969.jpg
+609,alcohol => beer => a bottle of beer sits next to the keyboard and mouse => A bottle of beer sits next to the keyboard and mouse at the computer table.,http://images.cocodataset.org/val2014/COCO_val2014_000000346638.jpg
+610,bathroom space => urinal => view of a bunch of urinals with stickers. => A view of a bunch of urinals with stickers above them.,http://images.cocodataset.org/val2014/COCO_val2014_000000348045.jpg
+611,monster => demon => demon looks like doll => A demonic looking chucky like doll standing next to a white clock.,http://images.cocodataset.org/val2014/COCO_val2014_000000031749.jpg
+612,city => tall city => tall city with big buildings => A city lined with tall buildings covered in hanging letters.,http://images.cocodataset.org/val2014/COCO_val2014_000000049091.jpg
+613,watercraft => marina => a marina filled with boats => A marina filled with boats floating in crystal blue water.,http://images.cocodataset.org/val2014/COCO_val2014_000000133233.jpg
+614,mobility device => bicycle => bike behind a rail => A bike behind a rail for safety on a train ride.,http://images.cocodataset.org/val2014/COCO_val2014_000000135670.jpg
+615,"table => table topped with food => table topped with plates, bowls and containers. => A table topped with plates, bowls and containers of food.",http://images.cocodataset.org/val2014/COCO_val2014_000000273711.jpg
+616,photo => posing for picture => a man and woman posing for a picture => A man and woman posing for a picture in a sports bar.,http://images.cocodataset.org/val2014/COCO_val2014_000000006763.jpg
+617,"child => little girl => little girl with her hand and woman holding big black suitcase. => A girl making a ""peace sign"" with her hand and a woman holding a big black suitcase.",http://images.cocodataset.org/val2014/COCO_val2014_000000011699.jpg
+618,water sports => boat => 3 people preparing to launch boat in a river. => Three people preparing to launch a small boat in a river.,http://images.cocodataset.org/val2014/COCO_val2014_000000155145.jpg
+619,sports equipment => tennis ball => man takes swing at tennis ball => A man takes a swing at a tennis ball on a grass court.,http://images.cocodataset.org/val2014/COCO_val2014_000000151629.jpg
+620,station => train station => train parked in front of a station => a black and white photo of a train in a station,http://images.cocodataset.org/val2014/COCO_val2014_000000151857.jpg
+621,vehicle => trolley => horse pulling trolley behind it. => There is a white horse pulling a trolley behind it.,http://images.cocodataset.org/val2014/COCO_val2014_000000016228.jpg
+622,hygiene => toothbrush => man holding a paper bag with toothbrush => A man holding a paper bag while showing the camera a toothbrush.,http://images.cocodataset.org/val2014/COCO_val2014_000000055528.jpg
+623,"dog => dog, cat, sleeping => dogs and a cat sleeping on a bed => Two dogs and a cat sleeping on their human's bed",http://images.cocodataset.org/val2014/COCO_val2014_000000071226.jpg
+624,microwave => samsung microwave oven => white samsung microwave oven installed into kitchen cabinet. => A white Samsung microwave oven installed into a natural wood kitchen cabinet.,http://images.cocodataset.org/val2014/COCO_val2014_000000207538.jpg
+625,tennis => tennis player => tennis player racquet => A woman standing on a tennis court holding a racquet.,http://images.cocodataset.org/val2014/COCO_val2014_000000161861.jpg
+626,winter => snowy mountain => woman in the snow in the mountains => A woman is posing for a picture on the snowy mountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000309655.jpg
+627,decorative object => vintage bed => antique bed with beautiful wood decoration => The antique bed has elaborate wood decoration on the frame..,http://images.cocodataset.org/val2014/COCO_val2014_000000263644.jpg
+628,golden => gold clock => a gold clock with roman numerals. => A gold clock with ornate iron hands keeps time on a large clock with roman numerals.,http://images.cocodataset.org/val2014/COCO_val2014_000000184762.jpg
+629,ribbon => pink ribbon => man cutting large pink ribbon. => A man uses a pair of big scissors to cut a pink ribbon.,http://images.cocodataset.org/val2014/COCO_val2014_000000005001.jpg
+630,outdoor living => patio => patio with chairs => An outdoor with a patio with chairs and a wooden deck.,http://images.cocodataset.org/val2014/COCO_val2014_000000233033.jpg
+631,traffic => traffic signal => traffic light on street => A traffic light over a street with a sign that reads K.,http://images.cocodataset.org/val2014/COCO_val2014_000000269682.jpg
+632,school => school boy => school boys sit cross legged in front of chalkboard sign => School boys sit cross legged in front of a chalkboard sign in a vintage black and white photo.,http://images.cocodataset.org/val2014/COCO_val2014_000000068409.jpg
+633,flying object => airplane => airplane in the sky is doing tricks. => The airplane in the sky is doing tricks while spitting out smoke.,http://images.cocodataset.org/val2014/COCO_val2014_000000199977.jpg
+634,home => living room => living room with furniture and two windows. => A red living room filled with furniture and two windows.,http://images.cocodataset.org/val2014/COCO_val2014_000000031735.jpg
+635,children => small children => many small children are posing together. => Many small children are posing together in the black and white photo.,http://images.cocodataset.org/val2014/COCO_val2014_000000002299.jpg
+636,"rodeo => rodeo area => a rodeo area with man in cowboy hats, rodeo clown man => A rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.",http://images.cocodataset.org/val2014/COCO_val2014_000000156071.jpg
+637,sale => sale of fruits => a vendor sells fruit. => A vendor selling fruit from the back of a truck.,http://images.cocodataset.org/val2014/COCO_val2014_000000260261.jpg
+638,"dish => dinner plate => dinner plate with meat, eggs, and chocolate-dipped strawberry => Dinner plate with potatoes, meat, an egg, and a chocolate-dipped strawberry.",http://images.cocodataset.org/val2014/COCO_val2014_000000084664.jpg
+639,female => young girl => young girl poses with yellow tennis racket. => A young girl in a white top poses with a yellow tennis racket.,http://images.cocodataset.org/val2014/COCO_val2014_000000117744.jpg
+640,green => green bench => man sitting at a green bench => A man sitting at a green bench next to a tall tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000088951.jpg
+641,sports => tennis => player in a tennis game. => A man playing a tennis game in front of a crowd.,http://images.cocodataset.org/val2014/COCO_val2014_000000189775.jpg
+642,"stuffed animal => stuffed teddy bear => stuffed teddy bear with care labeled => A black and white photograph of a stuffed teddy bear wearing a shirt that reads ""handle with care"" and a small stuffed sheep.",http://images.cocodataset.org/val2014/COCO_val2014_000000355610.jpg
+643,umbrella => person with umbrella => man with umbrella in front of someone => A man with an umbrella hat stands next to another man.,http://images.cocodataset.org/val2014/COCO_val2014_000000073702.jpg
+644,gaming console => wii => man with nintendo wii game player. => A man standing in a living room holding a Nintendo Wii game controller.,http://images.cocodataset.org/val2014/COCO_val2014_000000010707.jpg
+645,teddy => teddy bear => brown teddy bear at a table. => A brown teddy bear sitting at a table with colored pegs.,http://images.cocodataset.org/val2014/COCO_val2014_000000080057.jpg
+646,street => street sign => street sign on the corner => There is a street sign on the corner by a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000283318.jpg
+647,car => vintage car => a vintage car parked next to a motel => There is an old multi colored volvo parked next to a motel,http://images.cocodataset.org/val2014/COCO_val2014_000000347544.jpg
+648,male => male on wooden bench => two males on wooden bench => Two men sitting next to each other on a wooden bench.,http://images.cocodataset.org/val2014/COCO_val2014_000000130826.jpg
+649,group => herd => herd of animals traveling down the country road. => A herd of animals traveling down a country road surrounded by a lush green landscape.,http://images.cocodataset.org/val2014/COCO_val2014_000000103548.jpg
+650,object => bowl => bowl on top of a wooden table. => A bowl filled with food on top of a wooden table.,http://images.cocodataset.org/val2014/COCO_val2014_000000116362.jpg
+651,safety device => helmet => people wearing helmets standing near to bikes => People are wearing helmets standing next to bikes in the woods.,http://images.cocodataset.org/val2014/COCO_val2014_000000192699.jpg
+652,people => family => family sitting around a table => a family sitting around a long table filled with a lot of food,http://images.cocodataset.org/val2014/COCO_val2014_000000018380.jpg
+653,outstretched => outstretched bird => bird has wings outstretched and is sitting on bird feeder => A bird with outstretched blue wings is sitting on some bird feeder.,http://images.cocodataset.org/val2014/COCO_val2014_000000315257.jpg
+654,waste => pile of garbage => pile of junk sitting next to a curb => A pile of junk sitting next to a curb on green grass.,http://images.cocodataset.org/val2014/COCO_val2014_000000189213.jpg
+655,"refrigerator => refrigerator, fridge in the shadows => refrigerator in dark, dirty, dark - stock room => Old refrigerator in dark, messy store room with tiled floor.",http://images.cocodataset.org/val2014/COCO_val2014_000000282296.jpg
+656,traffic => traffic sign => traffic sign on top of a pole. => A blue traffic sign sitting on top of a pole.,http://images.cocodataset.org/val2014/COCO_val2014_000000185157.jpg
+657,animals => zebra => a zebra putting its face near a fence. => A zebra putting its face up close to a fence rail.,http://images.cocodataset.org/val2014/COCO_val2014_000000025139.jpg
+658,"activity => sport => playing tennis => A man is playing tennis, the ball is coming toward him.",http://images.cocodataset.org/val2014/COCO_val2014_000000238013.jpg
+659,kite => kitesurfer => kite surfer in the air => a kite surfer is flying in the air over some water,http://images.cocodataset.org/val2014/COCO_val2014_000000275058.jpg
+660,furniture => couch => couch in a living room => A couch in a living room with walls lined with a bookcase and pictures.,http://images.cocodataset.org/val2014/COCO_val2014_000000171740.jpg
+661,water => surfing => surfing in the ocean => A group of people surfing the waves in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000332351.jpg
+662,sandwich => sandwich on toasted roll => sandwich on toasted roll sitting atop a green leafy salad => A sandwich on a toasted roll sits atop a green leafy salad with tomatoes.,http://images.cocodataset.org/val2014/COCO_val2014_000000197004.jpg
+663,umbrella => small umbrella => 2 people are under a very small black umbrella on a city corner => 2 people (a very tall person in a jacket and kilt and a short old man) standing in the rain under a very small black umbrella on a city corner,http://images.cocodataset.org/val2014/COCO_val2014_000000212573.jpg
+664,baseball => baseball player => a baseball player holding a bat. => A baseball player holding a bat next to a base.,http://images.cocodataset.org/val2014/COCO_val2014_000000006471.jpg
+665,electronic device => laptop => an open laptop in a bed. => An open laptop computer sitting on top of a bed.,http://images.cocodataset.org/val2014/COCO_val2014_000000243199.jpg
+666,animals => sheep => sheep in the field => A couple of sheep standing next to each other on a field.,http://images.cocodataset.org/val2014/COCO_val2014_000000022589.jpg
+667,water vessels => boat => vintage boat photo => a vintage photo of a boat parked next to a peer,http://images.cocodataset.org/val2014/COCO_val2014_000000148730.jpg
+668,fruit => banana => a bunch of green bananas => A bunch of green bananas laying on a stone table.,http://images.cocodataset.org/val2014/COCO_val2014_000000161820.jpg
+669,peeled => peeled banana => peeled banana on table => A peeled banana on a table next to an unpeeled banana.,http://images.cocodataset.org/val2014/COCO_val2014_000000279769.jpg
+670,domestic space => kitchen => a kitchen filled with wooden cabinet and windows => A kitchen filled with a wooden cabinet and a large window.,http://images.cocodataset.org/val2014/COCO_val2014_000000045229.jpg
+671,toilet => empty toilet => empty toilet stall with two rolls of used toilet paper. => An empty toilet stall with two rolls of used toilet paper and one full roll.,http://images.cocodataset.org/val2014/COCO_val2014_000000085576.jpg
+672,colorful => colorful umbrella => colorful beach umbrella set => some people at a beach water and a colored umbrella,http://images.cocodataset.org/val2014/COCO_val2014_000000150224.jpg
+673,paddle => ping pong paddle => man holds ping pong paddle. => The man holds a ping pong paddle under the shelf on a wall.,http://images.cocodataset.org/val2014/COCO_val2014_000000112298.jpg
+674,"desk => office desk => office desk with computer monitor => A desk area with a computer monitor, keyboard and mouse.",http://images.cocodataset.org/val2014/COCO_val2014_000000066635.jpg
+675,dress => orange dress => woman in orange dress holds a black umbrella => A young woman in an orange dress holds a black umbrella,http://images.cocodataset.org/val2014/COCO_val2014_000000339823.jpg
+676,taking photograph => taking picture with right hand => man taking picture with right hand. => A man taking a photo with his right hand and eating food with his left hand.,http://images.cocodataset.org/val2014/COCO_val2014_000000334309.jpg
+677,stool => person lifting stool => person lifting a little stool => a person lifting a little stool with their feet and a person holding a cell phone,http://images.cocodataset.org/val2014/COCO_val2014_000000042528.jpg
+678,"wave => crashing waves => large, crashing wave on the shore => A huge, crashing wave with lots of spray is carrying a kneeling wet-suited surfer to shore.",http://images.cocodataset.org/val2014/COCO_val2014_000000183127.jpg
+679,personal object => laptop => laptop on the table => A laptop computer sitting on top of a wooden table.,http://images.cocodataset.org/val2014/COCO_val2014_000000229659.jpg
+680,outdoor equipment => bicycle => bicycle that is resting on the wall => A bicycle that is resting upon the wall of a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000242287.jpg
+681,luggage => large suitcase => two people posing next to a giant suitcase => Two people posing next to a giant suitcase in front of a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000034139.jpg
+682,"human body part => man's hand => man's hand, with scissors => The man's hand is bigger then the scissors he is holding.",http://images.cocodataset.org/val2014/COCO_val2014_000000311180.jpg
+683,traffic => traffic light => green traffic light on street => a green traffic light a street  some buildings and some other lights,http://images.cocodataset.org/val2014/COCO_val2014_000000155451.jpg
+684,counter => counter top => counter topped with large white frosted cake => A counter topped with a large white frosted cake sitting next to small pastry.,http://images.cocodataset.org/val2014/COCO_val2014_000000260470.jpg
+685,"animal, => bird => bird on the branch of the tree. => The bird is sitting on the small branch of the tree.",http://images.cocodataset.org/val2014/COCO_val2014_000000056545.jpg
+686,golden => golden clock decoration => golden clock mounted on wall. => A wall mounted golden clock on the side of a building.,http://images.cocodataset.org/val2014/COCO_val2014_000000331317.jpg
+687,group => group of guys => group of guys eating and having fun => A group of guys are sitting at a table eating and laughing.,http://images.cocodataset.org/val2014/COCO_val2014_000000009590.jpg
+688,snacks => various snacks => various snacks on table => A tray of various foods next to drinks on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000231822.jpg
+689,animal => large zebra => large zebra and baby zebra standing inside enclosure. => A large zebra and baby zebra standing inside an enclosure eating.,http://images.cocodataset.org/val2014/COCO_val2014_000000290833.jpg
+690,object => vases => three vases of clay => there are three vases made of clay on a table,http://images.cocodataset.org/val2014/COCO_val2014_000000095786.jpg
+691,sport => tennis club => image of a female tennis club => A black and white photograph of a female tennis club.,http://images.cocodataset.org/val2014/COCO_val2014_000000064523.jpg
+692,flying object => plane => planes fly in unison => several jet planes flying in unison in a v formation,http://images.cocodataset.org/val2014/COCO_val2014_000000300659.jpg
+693,bathroom => bathroom fixture => the bathroom vanity is over the sink. => A small bathroom where the vanity is over the sink and toilet.,http://images.cocodataset.org/val2014/COCO_val2014_000000062025.jpg
+694,camera => camera equipment => camera equipment is set up in a room with vending machines. => Camera equipment is set up in a room with vending machines in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000011813.jpg
+695,sea => surfing => man in red suit surfing. => A man with long hair wearing a red suit surfing.,http://images.cocodataset.org/val2014/COCO_val2014_000000278973.jpg
+696,winter sports => snowboard => person snowboarding outside. => A person snowboarding outside while the sun is setting .,http://images.cocodataset.org/val2014/COCO_val2014_000000129812.jpg
+697,flying creature => bird => bird flying over a couple of seashore waves => A bunch of birds flying around a couple of waves near the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000182441.jpg
+698,flower => flower display => man creating flower display by vase => a man making a flower display in a vase on a wall,http://images.cocodataset.org/val2014/COCO_val2014_000000314264.jpg
+699,"bus => double decker bus => double decker bus rides past other vehicles => The red, double decker bus is driving past other buses.",http://images.cocodataset.org/val2014/COCO_val2014_000000001584.jpg
+700,wildlife => polar bear => a polar bear is seen lying on a rock. => A polar bear with his chin raised lies on a rock.,http://images.cocodataset.org/val2014/COCO_val2014_000000092839.jpg
+701,"people => couple => couple at restaurant => Two people at a restaurant, one of whom is looking at a cellphone.",http://images.cocodataset.org/val2014/COCO_val2014_000000066771.jpg
+702,grass => short grass => white animals in short grass => A white animal is in the short grass by a tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000023937.jpg
+703,girl => emo girl => emo girl holding a smartphone => An emo girl holding a smart phone with a shaved head.,http://images.cocodataset.org/val2014/COCO_val2014_000000202001.jpg
+704,flying creature => bird => bird flying through a blue sky => A bird flying through a blue sky with wide wings.,http://images.cocodataset.org/val2014/COCO_val2014_000000264335.jpg
+705,bathroom => small bathroom => toilet with two sinks and mirrors => A toilet with two sinks and mirrors with lights on,http://images.cocodataset.org/val2014/COCO_val2014_000000103585.jpg
+706,watercraft => boat => three people on a boat in the rain => Three people in a boat with an umbrella in the rain,http://images.cocodataset.org/val2014/COCO_val2014_000000181421.jpg
+707,television => flat screen tv => flat screen tv in front of dining room table. => A flat screen TV sitting in a living room in front of a dining room table.,http://images.cocodataset.org/val2014/COCO_val2014_000000186632.jpg
+708,green space => forest => two men stand in the wooded area => Two men stand in the woods as one of them throws a Frisbee.,http://images.cocodataset.org/val2014/COCO_val2014_000000283520.jpg
+709,"hydrant => fire hydrant => fire hydrant standing on the side of the road. => A red. white, and blue fire hydrant on the side of the road.",http://images.cocodataset.org/val2014/COCO_val2014_000000293071.jpg
+710,cooling appliance => fridge => silver fridge in a room => a silver fridge sits in a room next to a microwave,http://images.cocodataset.org/val2014/COCO_val2014_000000313130.jpg
+711,tattoo => tattooed woman => woman with tattoo on train track => a woman with a tattoo is sitting on the train tracks,http://images.cocodataset.org/val2014/COCO_val2014_000000337055.jpg
+712,chocolate => chocolate chips => couple of chocolate chocolate chips laying next to bananas => A couple of blocks of chocolate sitting next to bananas and pudding.,http://images.cocodataset.org/val2014/COCO_val2014_000000312406.jpg
+713,outdoor => outdoor picnic => outdoor lunch table in park. => People are at an outdoor lunch table in a park.,http://images.cocodataset.org/val2014/COCO_val2014_000000300276.jpg
+714,clothing => shirt => casual shirt with a tie => A view of a man wearing a casual shirt and tie.,http://images.cocodataset.org/val2014/COCO_val2014_000000067315.jpg
+715,female => older woman => an old woman sits on an ornate bench => An old woman leans on her back while sitting on an ornate bench.,http://images.cocodataset.org/val2014/COCO_val2014_000000273132.jpg
+716,elderly => old woman => old woman and her man. => An elderly woman is holding onto the arm of an elderly man.,http://images.cocodataset.org/val2014/COCO_val2014_000000166768.jpg
+717,sweet food => donuts => 6 donuts with various glazes => A box contains six donuts with varying types of glazes and toppings.,http://images.cocodataset.org/val2014/COCO_val2014_000000148957.jpg
+718,winter sports => snowboarder => snowboarder on a snowy hillside => A snowboarder sailing down a snowy hillside on a mountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000350405.jpg
+719,interior => living room => person sitting at home with a fireplace. => A person setting in a chair in a living room with a fireplace and windows.,http://images.cocodataset.org/val2014/COCO_val2014_000000154358.jpg
+720,"transportation, => train => the train is passing by an onlooker. => A train is passing by while an onlooker is standing next to track.",http://images.cocodataset.org/val2014/COCO_val2014_000000133567.jpg
+721,food => doughnut => banana and doughnut in a plastic bag => a close up of a banana and a doughnut in a plastic bag,http://images.cocodataset.org/val2014/COCO_val2014_000000002587.jpg
+722,game => video game => two women playing a game on nintendo wii. => Two women playing a game with a Nintendo Wii controller.,http://images.cocodataset.org/val2014/COCO_val2014_000000215259.jpg
+723,celebration => birthday => man blows out candles while celebrating birthday. => Man blows out burning birthday candles which makes the flames higher.,http://images.cocodataset.org/val2014/COCO_val2014_000000206579.jpg
+724,"table => table with wine => table with a wine-filled glass and bread. => A table with a plate, wine-filled glass, and bread, among other items",http://images.cocodataset.org/val2014/COCO_val2014_000000002431.jpg
+725,pizza => large pizza => large pizza with meatballs and tomatoes => A large pizza with meatballs and tomatoes on top of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000340015.jpg
+726,outdoor activities => skiing => man skiing down side of a mountain. => A man skiing down the side of a snow covered mountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000051712.jpg
+727,airport lobby => airport lobby and people => airport lobby and people stroll by. => An airport lobby in which several people stroll by with their luggage.,http://images.cocodataset.org/val2014/COCO_val2014_000000084270.jpg
+728,airliner => passenger aircraft => large passenger jet on airport runway => A large passenger jet sitting on top of an airport runway.,http://images.cocodataset.org/val2014/COCO_val2014_000000098520.jpg
+729,bird => seagull => seagull flying in front of the beach => An up close shot of a seagull flying in front of the beach,http://images.cocodataset.org/val2014/COCO_val2014_000000126107.jpg
+730,bathroom => bathroom with lighting => bathroom with lighting and a toilet => A bathroom with lighting and a toilet and other things.,http://images.cocodataset.org/val2014/COCO_val2014_000000262440.jpg
+731,travel => air travel => single passenger flying through the sky => An single passanger in an airplane flying through the sky,http://images.cocodataset.org/val2014/COCO_val2014_000000044652.jpg
+732,drink => beer => young man drinking beer => A young man holding a bottle of beer while wearing a suit.,http://images.cocodataset.org/val2014/COCO_val2014_000000092416.jpg
+733,travel products => luggage => three pieces of luggage => Three pieces of luggage sitting on a floor in front of a curtain.,http://images.cocodataset.org/val2014/COCO_val2014_000000023023.jpg
+734,"people, => couple => couple sleeping in bed => A couple is sleeping in a bed with red sheets.",http://images.cocodataset.org/val2014/COCO_val2014_000000345385.jpg
+735,plates => a couple of plates => couple of plates of food => a couple of plates with food inside sits next to each other,http://images.cocodataset.org/val2014/COCO_val2014_000000092053.jpg
+736,cutting tools => scissors => scissors are next to a pie crust. => Scissors are next to a pie crust in a dish.,http://images.cocodataset.org/val2014/COCO_val2014_000000154213.jpg
+737,winter sport => skier => skier on the side of a mountain. => Skier with a red jacket on going down the side of a mountain.,http://images.cocodataset.org/val2014/COCO_val2014_000000326542.jpg
+738,flying objects => kite => pair of men fly kite. => A pair of men fly a kite in a grassy field.,http://images.cocodataset.org/val2014/COCO_val2014_000000067406.jpg
+739,construction => construction site => construction site with street sign => a construction site sits in front of a stop sign,http://images.cocodataset.org/val2014/COCO_val2014_000000095899.jpg
+740,winter => snow => man rides snow on snow covered ground => A man riding skis on top of snow covered ground.,http://images.cocodataset.org/val2014/COCO_val2014_000000107094.jpg
+741,food => pastries => plate filled with pastries => There is a plate filled with pastries next to a keyboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000021503.jpg
+742,seafood => salmon => salmon and broccoli on plate. => There is some salmon and broccoli with garlic on this plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000015278.jpg
+743,sandwich => chicken sandwich => chicken sandwich on a tray => A tray topped with a chicken sandwich next to a cup of fries.,http://images.cocodataset.org/val2014/COCO_val2014_000000218249.jpg
+744,beef => beef and vegetables => beef and vegetables on table => Beef and vegetables on a plate sitting on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000166426.jpg
+745,flying object => plane => plane at night => a plane flying by a bright moon in the sky,http://images.cocodataset.org/val2014/COCO_val2014_000000022396.jpg
+746,color spectrum => red light versus pink leaves => red light versus pink leaves in the landscape => A red light is a wonderful contrast to the pink leaves on trees,http://images.cocodataset.org/val2014/COCO_val2014_000000015272.jpg
+747,cake => birthday cake => beach themed birthday cake => Advertising photograph of a surf-themed birthday cake from a bakery,http://images.cocodataset.org/val2014/COCO_val2014_000000092177.jpg
+748,person => woman => woman standing at the table => A woman stands in the dining area at the table.,http://images.cocodataset.org/val2014/COCO_val2014_000000000139.jpg
+749,water => water scene => wading around big body of water. => A group of people wading around a large body of water.,http://images.cocodataset.org/val2014/COCO_val2014_000000029984.jpg
+750,pile => pile of things => pile of food sitting on top of a table => A pile of food sitting on top of a table next to a  glass of wine.,http://images.cocodataset.org/val2014/COCO_val2014_000000355325.jpg
+751,"furniture => sofa => living room with a chair, sofa and tv. => A very simple living area with a chair, sofa and TV.",http://images.cocodataset.org/val2014/COCO_val2014_000000004495.jpg
+752,cargo => cargo container => cargo container in a top of a car => A crate on top of a car holding various luggage.,http://images.cocodataset.org/val2014/COCO_val2014_000000312278.jpg
+753,attire => lab coat => man with a white lab coat. => A man wearing a white lab coat holding a bone saw.,http://images.cocodataset.org/val2014/COCO_val2014_000000289229.jpg
+754,cooking equipment => stove top oven => stove top oven sitting on a pile of junk. => A stove top oven sitting on a pile of junk outdoors.,http://images.cocodataset.org/val2014/COCO_val2014_000000111036.jpg
+755,foods => vegetables => plate of freshly made vegetables. => A plate of freshly made vegetables served on a plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000288762.jpg
+756,flying => biplane => an old biplane flying low. => An old biplane that is flying low for the crowd.,http://images.cocodataset.org/val2014/COCO_val2014_000000183500.jpg
+757,motorcycle => motocross => two motorcross people skidding over an obstacle => A picture of two motorcross people skidding in the dirtroad.,http://images.cocodataset.org/val2014/COCO_val2014_000000214192.jpg
+758,"blanket => orange blanket => person with orange blanket on a wooden seat of a park bench. => A person with an orange blanket covering them, sleeping on a wooden park bench.",http://images.cocodataset.org/val2014/COCO_val2014_000000030828.jpg
+759,pizza => pizza table => person sits on pizza table => Someone is sitting at a table with pizza and other food on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000276285.jpg
+760,outdoor equipment => wheelbarrow => wheelbarrow sitting in a field. => A wheelbarrow sitting in a field next to a surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000107554.jpg
+761,human body part => hand => it looks like a hand of a small child => it looks like a hand of a small child with pink and white top,http://images.cocodataset.org/val2014/COCO_val2014_000000137106.jpg
+762,clock => old clock => old clock is lit at night. => An old clock is illuminated at night on a street corner.,http://images.cocodataset.org/val2014/COCO_val2014_000000168330.jpg
+763,parking => parking meter => parking meter sitting by tree => A silver and gray parking meter sitting by a tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000203488.jpg
+764,parking => parking meter => parking meter with red and blue background. => A pretty red white and blue parking meter by some shrubs.,http://images.cocodataset.org/val2014/COCO_val2014_000000053994.jpg
+765,screen => flat screen => flat screen monitor => A flat screen monitor shows a brightly colored image on the screen.,http://images.cocodataset.org/val2014/COCO_val2014_000000186282.jpg
+766,pavement => people on pavement => group of people on pavement in city street. => A group of people walking down a street next to tall buildings.,http://images.cocodataset.org/val2014/COCO_val2014_000000163314.jpg
+767,plastic => plastic container => two plastic containers next to a banana => Two plastic containers next to a banana on a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000113589.jpg
+768,"large vehicle => bus => passenger bus parked at a stop. => Blue, white, and green passenger bus parked at a stop.",http://images.cocodataset.org/val2014/COCO_val2014_000000042070.jpg
+769,furniture => loveseats => living room with loveseat and chairs. => A living room with a loveseat and chairs surrounding a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000181753.jpg
+770,"apparel => blazers => two men in blazers, fedoras with a moped. => Two men in blazers and fedoras with a moped in the background.",http://images.cocodataset.org/val2014/COCO_val2014_000000069213.jpg
+771,teddy => teddy bear => a group of teddy bears sit at a small table => A group of teddy bears sitting at a small table in front of a christmas tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000249129.jpg
+772,vehicles => trucks => two trucks => Two trucks parked next to each other on a dirt road.,http://images.cocodataset.org/val2014/COCO_val2014_000000147745.jpg
+773,stuffed animal => teddy bear => teddy bear in front of pile of boxes. => A teddy bear sitting in front of a pile of boxes.,http://images.cocodataset.org/val2014/COCO_val2014_000000219283.jpg
+774,personal object => purse => woman reaches into purse. => A woman reaching in her purse while holding an umbrella.,http://images.cocodataset.org/val2014/COCO_val2014_000000250137.jpg
+775,people => group of passengers => group of people board train => People at a train station board and unboard a train,http://images.cocodataset.org/val2014/COCO_val2014_000000082812.jpg
+776,skateboard => skateboard in the air => skateboard on a curved ramp. => A person is riding a skateboard on a curved ramp.,http://images.cocodataset.org/val2014/COCO_val2014_000000146831.jpg
+777,character => costumed characters => children look on as costumed characters give a presentation => In a library children look on as costumed characters give a presentation,http://images.cocodataset.org/val2014/COCO_val2014_000000283785.jpg
+778,clouds => dark clouds => dark clouds moving over the harbor => Dark clouds moving in over a harbor full of moored sailboats.,http://images.cocodataset.org/val2014/COCO_val2014_000000230362.jpg
+779,domestic space => kitchen => kitchen full of dishes => a kitchen filled with assorted items like a bottle of dish soap,http://images.cocodataset.org/val2014/COCO_val2014_000000007574.jpg
+780,"electronic => tv => a view of a tv and a statue in front of a window. => A view of a TV and a statue laying on the ground, next to a window.",http://images.cocodataset.org/val2014/COCO_val2014_000000154431.jpg
+781,toilet => handicap toilet => handicap restroom with open toilet => Handicapped restroom with open toilet and black and white spotted floor.,http://images.cocodataset.org/val2014/COCO_val2014_000000243495.jpg
+782,travel system => track => train on the snow covered tracks. => A train riding on a snow covered track near trees.,http://images.cocodataset.org/val2014/COCO_val2014_000000042563.jpg
+783,wildlife => bear => bear sitting in the grass => A bear sitting in the grass surrounded by five vultures.,http://images.cocodataset.org/val2014/COCO_val2014_000000229997.jpg
+784,art => sculpture => female sculpture with two women sat next to each other on a bench with their purses on the ground => A sculpture of two women stting on a bench with their purses on the ground while people standing in a line behind them.,http://images.cocodataset.org/val2014/COCO_val2014_000000011511.jpg
+785,object => frisbee => person reaches for a white frisbee => a man leaning over as he reaches for a white frisbee,http://images.cocodataset.org/val2014/COCO_val2014_000000227482.jpg
+786,electronic device => remote => small child with a remote. => A small child lounges with a remote in his hand.,http://images.cocodataset.org/val2014/COCO_val2014_000000190637.jpg
+787,person => young man => young man standing in front of fence => A young man standing in front of a fence holding a skateboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000270677.jpg
+788,festival => parade => policeman and biker in a parade => A policeman on a motorcycle leads the way in a parade.,http://images.cocodataset.org/val2014/COCO_val2014_000000136715.jpg
+789,water activities => boating => man in boat driving a small boat. => A man driving a small boat with a dog sitting on it's front end.,http://images.cocodataset.org/val2014/COCO_val2014_000000190140.jpg
+790,object => frisbee => man throwing a white frisbee => A man throwing a white frisbee in a tree covered park.,http://images.cocodataset.org/val2014/COCO_val2014_000000352582.jpg
+791,group => biking group => group of people on bikes on the street. => A large group of people on some bikes on a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000254814.jpg
+792,"wine => wine glass => glass of wine seated next to bowl of soup and salad => A glass of wine sits next to a bowl of soup, salad, and a plate with a sandwich.",http://images.cocodataset.org/val2014/COCO_val2014_000000070048.jpg
+793,group => group of children => group of children sitting in the grass => A group of children sitting in the grass with two of them holding a Frisbee .,http://images.cocodataset.org/val2014/COCO_val2014_000000006954.jpg
+794,flower => purple flower => purple flower in a watering can => A purple flower is in a watering can on the window sill.,http://images.cocodataset.org/val2014/COCO_val2014_000000069795.jpg
+795,empty => empty bowl => empty bowl in front of a man => am empty bowl and three empty beer bottles in front of a man,http://images.cocodataset.org/val2014/COCO_val2014_000000050811.jpg
+796,gaming system => wii => person playing the nintendo wii => A person playing the Nintendo Wii in their messy living room,http://images.cocodataset.org/val2014/COCO_val2014_000000195842.jpg
+797,skating => skateboarder => male skateboarder performing tricks => a male skateboarder in a white shirt is doing a trick,http://images.cocodataset.org/val2014/COCO_val2014_000000192964.jpg
+798,child => little boy => boy is standing against a wall with an apple => A young boy is standing against a wall eating an apple.,http://images.cocodataset.org/val2014/COCO_val2014_000000349594.jpg
+799,animal => black bear => black bear is walking on a open field. => A black bear is walking on a open field next to some trees.,http://images.cocodataset.org/val2014/COCO_val2014_000000104603.jpg
+800,green => green grass => park full of green grass => A park filled with green grass and a tall leaf filled tree.,http://images.cocodataset.org/val2014/COCO_val2014_000000195045.jpg
+801,celebration => wedding => wedding with a happy couple => A bride and groom about to cut into their cake,http://images.cocodataset.org/val2014/COCO_val2014_000000031620.jpg
+802,street => street sign => street sign in city => A street sign in the city with various symbols on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000161128.jpg
+803,costume => man in dinosaur costume => a man with a dinosaur suit on a trolley => A man in dinosaur covered clown suit talking on a phone on a trolley,http://images.cocodataset.org/val2014/COCO_val2014_000000336628.jpg
+804,show => stunts => two men doing stunts on four wheeler atv => Two men doing a stunt show on four wheeler ATV vehicles.,http://images.cocodataset.org/val2014/COCO_val2014_000000204186.jpg
+805,sports => baseball => baseball player swinging a baseball bat => a baseball player swinging a baseball bat at a ball,http://images.cocodataset.org/val2014/COCO_val2014_000000196141.jpg
+806,animal => stuffed animal => teddy bear laying on top of a bed => A teddy bear laying on top of a bed next to a table with beers.,http://images.cocodataset.org/val2014/COCO_val2014_000000020553.jpg
+807,street => nocturnal street => street at night with red stoplights and street lights => Street at night with red stoplights and street lights with head on traffic,http://images.cocodataset.org/val2014/COCO_val2014_000000354753.jpg
+808,computer => laptop => a laptop on top of a wood desk => a laptop on the top of a wood desk with a bookcase,http://images.cocodataset.org/val2014/COCO_val2014_000000215778.jpg
+809,building => grey and white building => a tower of a gray and white building. => A tower of a gray and white building has a weather vane and two clocks.,http://images.cocodataset.org/val2014/COCO_val2014_000000295797.jpg
+810,rice => steamed rice => white steamed rice with stir fry vegetables => A dinner plate that has white steamed rice with stir fry vegetables and chicken.,http://images.cocodataset.org/val2014/COCO_val2014_000000003845.jpg
+811,board => cutting board => cutting board with different cuts of meat => A wooden cutting board topped with different cuts of meat.,http://images.cocodataset.org/val2014/COCO_val2014_000000203095.jpg
+812,food => doughnuts => two girls pose with doughnuts => Two girls posing with doughnuts with bites out of them.,http://images.cocodataset.org/val2014/COCO_val2014_000000341973.jpg
+813,food tree => fruit tree => green fruit tree yields fruit => A green fruit tree yields fruit not yet ready for harvest.,http://images.cocodataset.org/val2014/COCO_val2014_000000078959.jpg
+814,"fruit => apple => apples on the tree => Crisp, delicious apples hang on the dying branches of the tree.",http://images.cocodataset.org/val2014/COCO_val2014_000000044260.jpg
+815,festival => festival people => a large crowd attends a festival => A large crowd is walking in the street for a festival,http://images.cocodataset.org/val2014/COCO_val2014_000000290248.jpg
+816,beach => beach chair => woman walks to beach chair => A woman walks out of the ocean towards a beach chair and umbrella.,http://images.cocodataset.org/val2014/COCO_val2014_000000084477.jpg
+817,sports equipment => tennis racket => tennis racket in swing => a man swinging a tennis racket and hitting a ball on a tennis court.,http://images.cocodataset.org/val2014/COCO_val2014_000000239537.jpg
+818,intersection => intersection sign => green lake drive intersection sign => This is an intersection sign between green lake drive and one other,http://images.cocodataset.org/val2014/COCO_val2014_000000198915.jpg
+819,heating and cooling => refrigerator => refrigerator covered in magnets => A refrigerator that is covered in magnets from top to bottom.,http://images.cocodataset.org/val2014/COCO_val2014_000000159791.jpg
+820,artwork => decorative piece => a living room with art on the walls. => A living room with art on the walls and a couch.,http://images.cocodataset.org/val2014/COCO_val2014_000000356432.jpg
+821,athlete => baseball player => baseball player on the outfield => A group of baseball players that are walking in the outfield.,http://images.cocodataset.org/val2014/COCO_val2014_000000151480.jpg
+822,bathroom => bathroom with toilet => bathroom with toilet and sink with lots of items. => A bathroom with toilet and sink with lots of items on the sink counter.,http://images.cocodataset.org/val2014/COCO_val2014_000000195165.jpg
+823,material => plastic => person is opening a plastic package. => A person is opening a plastic package with their hands.,http://images.cocodataset.org/val2014/COCO_val2014_000000251824.jpg
+824,vehicle => school bus => school bus and silver car waiting at a rail crossing => A school bus and a silver car waiting at a railroad crossing for a train to go past.,http://images.cocodataset.org/val2014/COCO_val2014_000000057149.jpg
+825,interior => interior bathroom => interior bathroom shot of a glass shower => Interior bathroom shot of a glass shower and white sink fixtures.,http://images.cocodataset.org/val2014/COCO_val2014_000000058029.jpg
+826,device => cell phone => cell phone reflects in mirror. => A man in green shirt with cellphone reflecting in a mirror.,http://images.cocodataset.org/val2014/COCO_val2014_000000005060.jpg
+827,child => little girl => little girl in the field => A little girl standing in the grass with two soccer balls in front of her.,http://images.cocodataset.org/val2014/COCO_val2014_000000257624.jpg
+828,moving vehicle => train => train traveling under signal lights on top. => A train traveling under a signal lights on top of tracks.,http://images.cocodataset.org/val2014/COCO_val2014_000000200162.jpg
+829,wildlife => zebra => two zebras graze on green grass. => Two zebras grazing on the green grass in an enclosure.,http://images.cocodataset.org/val2014/COCO_val2014_000000020059.jpg
+830,station => train station => train station with an awning. => A train station with an awning is depicted with a train on the right platform.,http://images.cocodataset.org/val2014/COCO_val2014_000000025181.jpg
+831,stuffed animals => teddy bears => white teddy bears sit on shelf => A row of white teddy bears on shelf next to DVDs.,http://images.cocodataset.org/val2014/COCO_val2014_000000125062.jpg
+832,skateboard => skateboarder => skateboarder at skate park => A person on a skateboard and bike at a skate park.,http://images.cocodataset.org/val2014/COCO_val2014_000000087038.jpg
+833,animal => kitty => cat sits on table and watching tv => A little cat is sitting on the table and watching TV.,http://images.cocodataset.org/val2014/COCO_val2014_000000098839.jpg
+834,clothing => jacket => woman is wearing pink and black jacket => a woman is wearing a pink and black jacket is sking,http://images.cocodataset.org/val2014/COCO_val2014_000000118921.jpg
+835,person => lady => the lady is posing for the camera. => A lady is posing for the camera while many others look on.,http://images.cocodataset.org/val2014/COCO_val2014_000000162092.jpg
+836,person => adult => adult standing behind a little girl => An adult standing behind a little girl while holding an umbrella.,http://images.cocodataset.org/val2014/COCO_val2014_000000210789.jpg
+837,rider => dirt bike => person riding dirt bike. => a black and white photo of a person riding a dirt bike,http://images.cocodataset.org/val2014/COCO_val2014_000000145620.jpg
+838,black shirt => lady in black shirt => woman in black shirt and skirt => A woman in black shirt and skirt playing a game of tennis.,http://images.cocodataset.org/val2014/COCO_val2014_000000065736.jpg
+839,"interior => room => a room with a bed, a bed and a clock => A room with a bed, a clock, a lamp, a fireplace and a television.",http://images.cocodataset.org/val2014/COCO_val2014_000000041872.jpg
+840,exterior space => outdoor wall => woman standing outside wall with ornaments. => A woman standing in front of an outdoor wall decorated with images and clocks.,http://images.cocodataset.org/val2014/COCO_val2014_000000156292.jpg
+841,cake => sliced cake => sliced cake on a plate with a fork beside it. => A peice of cake sit on a red plate with a fork beside it.,http://images.cocodataset.org/val2014/COCO_val2014_000000157138.jpg
+842,license plate => custom license plate => vehicle with custom license plate => A vehicle displays a customized license plate and milk advertisements.,http://images.cocodataset.org/val2014/COCO_val2014_000000140203.jpg
+843,different vegetables => different types of vegetables => different kinds of vegetables are growing in a crates => A bunch pf different vegetables is on a crate next to a CSA pamphlet.,http://images.cocodataset.org/val2014/COCO_val2014_000000298994.jpg
+844,outside => outside view => outside view of the mgm grand in las vegas => Outside view of the MGM Grand in Las Vegas with people sitting and walking.,http://images.cocodataset.org/val2014/COCO_val2014_000000266981.jpg
+845,interior => living room => a large living room => A spacious living room with three windows and a wooden floor.,http://images.cocodataset.org/val2014/COCO_val2014_000000036844.jpg
+846,furniture => office chair => office chair in a blue background => A blue office chair sitting next to a wooden desk.,http://images.cocodataset.org/val2014/COCO_val2014_000000189820.jpg
+847,outdoor furniture => a park bench => a park bench surrounded by floral arrangements => A park bench surrounded by floral arrangements on either side.,http://images.cocodataset.org/val2014/COCO_val2014_000000221502.jpg
+848,equipment => computer => a bunch of laptop computers => Three laptop computers and a desktop computer sit next to each other.,http://images.cocodataset.org/val2014/COCO_val2014_000000097994.jpg
+849,sports => skateboarding => two boys skateboard on a ramp. => Two boys skateboarding on a ramp at a skate park.,http://images.cocodataset.org/val2014/COCO_val2014_000000093717.jpg
+850,athlete => tennis player => tennis player hurls ball towards opponent. => A white-clad tennis player hurls a ball upward to deliver a serve.,http://images.cocodataset.org/val2014/COCO_val2014_000000269121.jpg
+851,beach => sandy beach => man standing on sandy beach. => A man standing on top of a sandy beach near a colorful kite.,http://images.cocodataset.org/val2014/COCO_val2014_000000263679.jpg
+852,dirt => dirt on the bed => a bed room with dirt on the bed => A dirty bed room with dirty sheets on the bed,http://images.cocodataset.org/val2014/COCO_val2014_000000190648.jpg
+853,timepieces => clock => clock with a second clock. => A clock that has a second clock for the second hand.,http://images.cocodataset.org/val2014/COCO_val2014_000000164363.jpg
+854,building => house => white and black house => A black and white picture of a large house is shown.,http://images.cocodataset.org/val2014/COCO_val2014_000000261796.jpg
+855,huge => huge plate => huge plate of food with fork => A huge plate of yummy food with fork to eat.,http://images.cocodataset.org/val2014/COCO_val2014_000000174123.jpg
+856,gold color => gold colored scissors => gold colored scissors cutting into a piece of bejeweled fabric => A gold colored pair of scissors cutting into a piece of bejeweled fabric with other bejeweled items in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000357501.jpg
+857,electronic device => cell phone => two men sitting at table with cell phones in their hands. => Two men sitting in chairs at a table with cell phones in their hands.,http://images.cocodataset.org/val2014/COCO_val2014_000000271116.jpg
+858,produce => fruit => a man at a fruit stand => A man at a fruit stand with a woman beside him.,http://images.cocodataset.org/val2014/COCO_val2014_000000069356.jpg
+859,business => shop => shop with sign on front => a shop with a bunch of signs sitting out front,http://images.cocodataset.org/val2014/COCO_val2014_000000094185.jpg
+860,outdoor recreation => skier => a skier rides down a slope past a flag => A person riding skis down a snow covered slope past a flag.,http://images.cocodataset.org/val2014/COCO_val2014_000000136334.jpg
+861,church => church building => old church building with clocks built in the tower. => An old church building with clocks built into the tower and an arched doorway.,http://images.cocodataset.org/val2014/COCO_val2014_000000130465.jpg
+862,stuffed animal => stuffed bear => stuffed bears hugging and sitting => Three stuffed bears hugging and sitting on a blue pillow,http://images.cocodataset.org/val2014/COCO_val2014_000000000776.jpg
+863,electronic device => tv => tv sitting on top of a tv stand => A TV sitting in a living room on top of a TV stand.,http://images.cocodataset.org/val2014/COCO_val2014_000000097337.jpg
+864,"computer => laptop computer => laptop computer with an accessory track ball => A laptop computer with an attached trackball device, showing the Windows logo on the screen.",http://images.cocodataset.org/val2014/COCO_val2014_000000248631.jpg
+865,pizza => pepperoni pizza => woman holds pepperoni pizza at table. => A woman holding a large pepperoni pizza at a table.,http://images.cocodataset.org/val2014/COCO_val2014_000000306700.jpg
+866,wheeled => bicycle - wheeled => bicycle is wheeled through a parking lot => A bike in the middle of an empty parking lot next to trees,http://images.cocodataset.org/val2014/COCO_val2014_000000152771.jpg
+867,dessert => dessert on top => dessert on top of plate => A white piece of cake sitting on top of a plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000098633.jpg
+868,public facility => public toilet => a blue sign for a public toilet => a blue sign for a public toilet with arrows and figures,http://images.cocodataset.org/val2014/COCO_val2014_000000267946.jpg
+869,dessert => dessert table => group of girls enjoying dessert table => A group of women wearing hats while standing at a dessert table.,http://images.cocodataset.org/val2014/COCO_val2014_000000140640.jpg
+870,public area => public square => people in a public square => A few warmly dressed pedestrians walking across a public square.,http://images.cocodataset.org/val2014/COCO_val2014_000000280710.jpg
+871,clothing => pink shirt => a girl in a pink shirt => A girl in a pink shirt holding a blue umbrella.,http://images.cocodataset.org/val2014/COCO_val2014_000000009448.jpg
+872,ocean => ocean wave => wave surfing => A man riding a wave on a surfboard in the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000263403.jpg
+873,cutting tool => scissors => scissors sitting on a wooden box => An open pair of scissors sitting on a wooden box.,http://images.cocodataset.org/val2014/COCO_val2014_000000161008.jpg
+874,watercraft => canoe => man in canoe with paddle in water. => The man stands next to a child standing on a canoe with a paddle.,http://images.cocodataset.org/val2014/COCO_val2014_000000160728.jpg
+875,flying => kite flying => people are flying kites in the air => People hold flying kites in the air by the water,http://images.cocodataset.org/val2014/COCO_val2014_000000236599.jpg
+876,"little child => little boy => little boy on a lap, eating => A little boy is being held on a lap while eating.",http://images.cocodataset.org/val2014/COCO_val2014_000000084674.jpg
+877,sporting equipment => frisbee => young lady throwing a blue frisbee on the green field => A young lady throwing a blue frisbee while standing on a lush green field.,http://images.cocodataset.org/val2014/COCO_val2014_000000261061.jpg
+878,sportsperson => baseball player => catcher squatting at a base => A catcher squatting at a base with his gloved hand extended.,http://images.cocodataset.org/val2014/COCO_val2014_000000010764.jpg
+879,outdoor activity => surfing => young person surfing by the sea. => An over head shot of a young person surfing on a surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000122672.jpg
+880,color => different colored lights => different colored lights in distance => A bridge in the distance with multiple different colored lights.,http://images.cocodataset.org/val2014/COCO_val2014_000000047828.jpg
+881,water sport => surfing => surfing on white waves => A man riding a wave on top of a white surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000032570.jpg
+882,shirt => blue shirt => man in blue shirt and white shorts => A man in blue shirt and white shorts playing tennis.,http://images.cocodataset.org/val2014/COCO_val2014_000000127530.jpg
+883,couple => newlywed couple => newly wedded couple cutting up hot dog cake => A newly married couple cutting up a  giant hot dog cake.,http://images.cocodataset.org/val2014/COCO_val2014_000000350679.jpg
+884,building => brick building => brick building has clock tower on it => A large brick building has a clock tower on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000057725.jpg
+885,street => city street => urban street lit up with cars in the background. => A city street lit up in a night scene with cars in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000343976.jpg
+886,performer => musician => a man on a purple bed playing guitar => A man standing on a purple bed playing an electric guitar,http://images.cocodataset.org/val2014/COCO_val2014_000000297353.jpg
+887,bus => bus on a street => yellow bus on a street in the background. => A yellow bus with tinted windows driving uphill down a street.,http://images.cocodataset.org/val2014/COCO_val2014_000000179265.jpg
+888,keyboard => computer keyboard => man holding a computer keyboard => A man holds a controller and keyboard with his hands,http://images.cocodataset.org/val2014/COCO_val2014_000000108026.jpg
+889,entertainment => games => person playing game on nintendo wii. => A man and a woman playing a game on the Nintendo Wii.,http://images.cocodataset.org/val2014/COCO_val2014_000000234607.jpg
+890,cooking equipment => stoves => this is a kitchen with two stoves => this is a kitchen with two stoves and a table,http://images.cocodataset.org/val2014/COCO_val2014_000000175364.jpg
+891,outdoor activity => picnic => 4 children sit on picnic table. => Four children sit eating birthday cake at a picnic table.,http://images.cocodataset.org/val2014/COCO_val2014_000000345361.jpg
+892,winter sport => skiing => a couple of people with a pair of skis. => A couple of people riding a pair of skis down a snow covered slope.,http://images.cocodataset.org/val2014/COCO_val2014_000000086755.jpg
+893,fruit => watermelon => watermelon slice on a scooter. => A woman is showing a watermelon slice to a woman on a scooter.,http://images.cocodataset.org/val2014/COCO_val2014_000000139099.jpg
+894,motion => swing => young boy swinging baseball bat. => A young boy swinging a baseball bat at a baseball.,http://images.cocodataset.org/val2014/COCO_val2014_000000033759.jpg
+895,"flying animal => bird => bird with brown wings in flight => A beautiful bird with brown wings, glides over the water",http://images.cocodataset.org/val2014/COCO_val2014_000000151516.jpg
+896,animals => giraffe => giraffe standing on top of dirt field. => A small giraffe standing on top of a dirt field.,http://images.cocodataset.org/val2014/COCO_val2014_000000104619.jpg
+897,transportation => bus => bus on city street => A bus coming around the corner on a city street.,http://images.cocodataset.org/val2014/COCO_val2014_000000233727.jpg
+898,tray => white tray => white tray of coffee cups. => A white tray topped with lots of different coffee cups.,http://images.cocodataset.org/val2014/COCO_val2014_000000256407.jpg
+899,cruise ship => large cruise ship => big cruise ship next to another ship => A giant cruise ship next to another giant cruise ship next to a long pier.,http://images.cocodataset.org/val2014/COCO_val2014_000000289741.jpg
+900,transportation destination => airport => airport with a woman => An airport with a woman carrying a piece of luggage.,http://images.cocodataset.org/val2014/COCO_val2014_000000012280.jpg
+901,transportation => cars => parked cars => Several cars parked along the side of a street next to a street sign.,http://images.cocodataset.org/val2014/COCO_val2014_000000227511.jpg
+902,hair => facial hair => bearded man in suit. => Bearded man in a suit about to enjoy an adult beverage,http://images.cocodataset.org/val2014/COCO_val2014_000000347254.jpg
+903,color => mulicolored => a mulicolored stripe sun umbrella => this is a mulicolored stripe sun umbrella near a palm tree,http://images.cocodataset.org/val2014/COCO_val2014_000000292155.jpg
+904,exterior space => courtyard => four people walk through the courtyard => Four people walk through the courtyard of a large building.,http://images.cocodataset.org/val2014/COCO_val2014_000000079588.jpg
+905,mobile device => smartphone => a woman with a smartphone. => A woman is taking a picture of food with a mobile device.,http://images.cocodataset.org/val2014/COCO_val2014_000000226147.jpg
+906,hydrant => different colored hydrants => different colored fire hydrants => Several different fire hydrants that have been painted various colors.,http://images.cocodataset.org/val2014/COCO_val2014_000000338191.jpg
+907,produce => produce vendor => girl speaking on a phone close to a produce vendor => A young girl speaking on a cell phone near a produce vendor.,http://images.cocodataset.org/val2014/COCO_val2014_000000323263.jpg
+908,nature => green field => green field with bench in foreground => A large green field with a bench in the foreground.,http://images.cocodataset.org/val2014/COCO_val2014_000000314541.jpg
+909,waiting => people waiting => people waiting to cross the street => Four people wait to cross the street at an intersection.,http://images.cocodataset.org/val2014/COCO_val2014_000000183709.jpg
+910,room => small room => a small room with a bed. => A small room with a bed and window letting in light.,http://images.cocodataset.org/val2014/COCO_val2014_000000010995.jpg
+911,sport => skier => skier is being pulled by a rope => A snow skier is being pulled by a rope overhead.,http://images.cocodataset.org/val2014/COCO_val2014_000000196442.jpg
+912,talking => talking on phone => person on side walk talking on cellphone => a person sitting on a side walk talking on a cell phone,http://images.cocodataset.org/val2014/COCO_val2014_000000117197.jpg
+913,vegetable => carrots => a plate full of baby carrots and beans. => A plate topped with baby carrots and beans next to a  peeler.,http://images.cocodataset.org/val2014/COCO_val2014_000000007991.jpg
+914,small vehicle => small cart => a city street with small carts on bikes => A city street with small carts bing peddled by a men on bikes,http://images.cocodataset.org/val2014/COCO_val2014_000000184611.jpg
+915,winter => snowy slope => three people in the snow on a snowy slope => Three people in the snow trying to walk up the hill in skiis.,http://images.cocodataset.org/val2014/COCO_val2014_000000176901.jpg
+916,baseball => batter => a batter and catcher at home plate => A batter and catcher talking to the umpire at home plate.,http://images.cocodataset.org/val2014/COCO_val2014_000000128748.jpg
+917,surfing => surfing waves => woman riding a wave on a surfboard. => A woman in a bikini riding a wave on a surfboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000356505.jpg
+918,"sandwich => sandwich tray => tray holds sandwich and cappuccino => A tray holding a sandwich and cappuccino, next to the pastry.",http://images.cocodataset.org/val2014/COCO_val2014_000000183965.jpg
+919,plumbing fixtures => bathroom with plumbing fixtures => toilet and picture frames inside a tub. => A bathroom view with a toilet and picture frames inside a tub.,http://images.cocodataset.org/val2014/COCO_val2014_000000342295.jpg
+920,human body part => foot => foot on bench => A foot wearing a pointy pink flat shoe rested upon a bench.,http://images.cocodataset.org/val2014/COCO_val2014_000000048153.jpg
+921,food => onion => pan filled with onions => A pan filled with onions sitting next to a pan of stew.,http://images.cocodataset.org/val2014/COCO_val2014_000000005600.jpg
+922,bike => dirt bike => dirt bike parked near a tent => A dirt bike parked near a tent in the woods.,http://images.cocodataset.org/val2014/COCO_val2014_000000048924.jpg
+923,vegetable => small tomato => small tomato covered in sauce on a tray. => A person holding a small tomato over a tray that has sauce on it.,http://images.cocodataset.org/val2014/COCO_val2014_000000309678.jpg
+924,decorative object => vase => vase with yellow flowers => A vase filled  with yellow flowers next to a window.,http://images.cocodataset.org/val2014/COCO_val2014_000000159282.jpg
+925,wildlife => flock => a flock of birds flying over the ocean => A flock of birds flying over the ocean next to a beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000315001.jpg
+926,"desk => office desk => desk with computer equipment, calculator, and work papers holding employee's working lunch => An office desk with computer equipment, calculator, and work papers holds an employee's working lunch of soup, rice, and vegetables.",http://images.cocodataset.org/val2014/COCO_val2014_000000248314.jpg
+927,cake => wedding cake => people take picture with wedding cake. => A man and a woman take a picture with their wedding cake,http://images.cocodataset.org/val2014/COCO_val2014_000000146358.jpg
+928,decorations => christmas decoration => christmas decorations in a town square. => Christmas decorations surrounding a clock tower in a town square.,http://images.cocodataset.org/val2014/COCO_val2014_000000031118.jpg
+929,"table => wooden table => wooden table with person relaxing, with a view. => A long wooden table with a woman sitting under an umbrella.",http://images.cocodataset.org/val2014/COCO_val2014_000000151938.jpg
+930,large dog => a large brown dog => a large brown dog sits on a couch => A large brown dog sitting on top of a couch.,http://images.cocodataset.org/val2014/COCO_val2014_000000347930.jpg
+931,outdoor activity => bike => men on bikes riding on the street => Men on bikes riding alongside a car on the street,http://images.cocodataset.org/val2014/COCO_val2014_000000169996.jpg
+932,african animal => giraffe => animal giraffe standing alone in a dead patch => A giraffe is standing alone in a dead patch of foliage.,http://images.cocodataset.org/val2014/COCO_val2014_000000152870.jpg
+933,light => street lights => street light at night => a street light is on at the top of a hilll,http://images.cocodataset.org/val2014/COCO_val2014_000000273617.jpg
+934,transportation => bus => bus with green and red color. => Several green and red double decker buses lined up parked.,http://images.cocodataset.org/val2014/COCO_val2014_000000090208.jpg
+935,skateboard => skateboard ride => person on a skateboard ride => a person on a skate board ride down a ramp,http://images.cocodataset.org/val2014/COCO_val2014_000000257084.jpg
+936,urban => urban sidewalk => people walking down a city sidewalk => People walking down a city sidewalk showing one with headphones.,http://images.cocodataset.org/val2014/COCO_val2014_000000150265.jpg
+937,conversation => talk on street corner => two men talking on street corner => Two men talking to each other on a street corner,http://images.cocodataset.org/val2014/COCO_val2014_000000008211.jpg
+938,city => city street => a city street with lots of traffic => A city street filled with lots of traffic and people.,http://images.cocodataset.org/val2014/COCO_val2014_000000336232.jpg
+939,dog => brown dog => brown dog in the bathroom => A brown dog standing next to a toilet in a bathroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000061471.jpg
+940,beach => beach chair => beach chair on the sand => A beach chair and umbrella sit for another day at the beach.,http://images.cocodataset.org/val2014/COCO_val2014_000000146363.jpg
+941,"bathroom => white bathroom => white bathroom - stainless steel cabinetry => A bathroom is shown with a stainless steel shelf, toilet and wall phone.",http://images.cocodataset.org/val2014/COCO_val2014_000000053505.jpg
+942,tissue => tissue box => tissue box on top of a toilet => A tissue box on top of a toilet in a bathroom.,http://images.cocodataset.org/val2014/COCO_val2014_000000147518.jpg
+943,child => sleeping child => a child laying on a bed => A child laying on a bed with a white pillow.,http://images.cocodataset.org/val2014/COCO_val2014_000000040757.jpg
+944,athlete => tennis player => tennis player playing tennis => A tennis player is about to play some tennis game.,http://images.cocodataset.org/val2014/COCO_val2014_000000183391.jpg
+945,object => metal tray => metal tray filled with fried donuts. => A metal tray filled with fried donuts and metal tongs.,http://images.cocodataset.org/val2014/COCO_val2014_000000328117.jpg
+946,food => food and spices => food and spices show. => A display of fine food and spices on a wooden table.,http://images.cocodataset.org/val2014/COCO_val2014_000000088040.jpg
+947,stove => stove top oven => stove top oven with pizza with cooking inside => white stove top oven with a pizza cooking inside of it.,http://images.cocodataset.org/val2014/COCO_val2014_000000192191.jpg
+948,wine => opening wine => bartender opening wine bottle => Bartender opening a bottle of wine while patron waits patiently,http://images.cocodataset.org/val2014/COCO_val2014_000000025394.jpg
+949,material object => bench => woman sitting on bench near a park. => A woman sitting on top of a wooden bench near a park.,http://images.cocodataset.org/val2014/COCO_val2014_000000349184.jpg
+950,"player => baseball player => baseball player, pitching a baseball => A man pitching a baseball from a mound on a field.",http://images.cocodataset.org/val2014/COCO_val2014_000000095862.jpg
+951,apparel => suit => man with a suit and tie. => A man with a suit and tie and a fedora on.,http://images.cocodataset.org/val2014/COCO_val2014_000000131444.jpg
+952,waves => big wave => surfing a huge wave. => A man in a black suit surfing a large wave,http://images.cocodataset.org/val2014/COCO_val2014_000000190007.jpg
+953,road sign => road sign on roadside => red stop sign on the roadside => A red stop sign sitting on the side of a dark road.,http://images.cocodataset.org/val2014/COCO_val2014_000000122745.jpg
+954,"den => den with furniture => den with couch, table and book shelf. => A den with a couch, table, book shelf and a television.",http://images.cocodataset.org/val2014/COCO_val2014_000000233825.jpg
+955,tennis => tennis court => woman swinging ball on a tennis court. => A woman holding a racquet on top of a tennis court.,http://images.cocodataset.org/val2014/COCO_val2014_000000083172.jpg
+956,decorative object => vase => vase with flowers in it. => A vase with various flowers in it on a display case.,http://images.cocodataset.org/val2014/COCO_val2014_000000031050.jpg
+957,public place => sidewalk => many people walk on sidewalk => Many people walk on a sidewalk as a man holds a restaurant sign.,http://images.cocodataset.org/val2014/COCO_val2014_000000278749.jpg
+958,entertainment. => gaming => young person with a video game console. => A young person is playing with a video game controller.,http://images.cocodataset.org/val2014/COCO_val2014_000000318138.jpg
+959,water => boat => boat in water with people. => The people are floating in the water in the small wooden boat.,http://images.cocodataset.org/val2014/COCO_val2014_000000248334.jpg
+960,winter sports => skier => skier is going down the slope => A snow boarder is going down the slope on his board.,http://images.cocodataset.org/val2014/COCO_val2014_000000125257.jpg
+961,adult => men => pair of men => A pair of men with small mustaches dress as tennis players.,http://images.cocodataset.org/val2014/COCO_val2014_000000316404.jpg
+962,"selfie => youth selfie => youth taking selfie in mirror => A youth on a toilet taking a ""selfie"" in a mirror.",http://images.cocodataset.org/val2014/COCO_val2014_000000314177.jpg
+963,shopping => shopping on a street => shopping on a city street => a person with a shopping cart on a city street,http://images.cocodataset.org/val2014/COCO_val2014_000000252219.jpg
+964,nature => wild animals => field with wild animals in background => A field with various wildlife and trees in the background.,http://images.cocodataset.org/val2014/COCO_val2014_000000311295.jpg
+965,broccoli => fresh broccoli => fresh broccoli on a bamboo mat => A plate with broccoli and cheese bread on a bamboo mat.,http://images.cocodataset.org/val2014/COCO_val2014_000000191580.jpg
+966,snow sports => snowboarding => man with snowboard => A man flying through the air while riding a snowboard.,http://images.cocodataset.org/val2014/COCO_val2014_000000023359.jpg
+967,pillow => white pillow => white pillow white sheet => a white pillow white sheets and an orange and tan bedspread,http://images.cocodataset.org/val2014/COCO_val2014_000000217219.jpg
+968,button => control button => control button - orange and silver. => Some control buttons on an orange and silver electronic device.,http://images.cocodataset.org/val2014/COCO_val2014_000000022623.jpg
+969,sporting event => baseball => baseball player on base ball field => a baseball player on a base ball field holding a bat,http://images.cocodataset.org/val2014/COCO_val2014_000000248752.jpg
+970,electronic device => smartphone => tabletop topped with smartphone => A table topped with a smart phone next to a white bag.,http://images.cocodataset.org/val2014/COCO_val2014_000000180878.jpg
+971,outdoor recreation scene => beach => person walking across a beach => A person walking across a beach next to the ocean.,http://images.cocodataset.org/val2014/COCO_val2014_000000304812.jpg
+972,military => military outfit => group of women in military outfits helping others. => A group of women in military outfits helping other women in a kitchen.,http://images.cocodataset.org/val2014/COCO_val2014_000000052996.jpg
+973,toilet => small toilet => small toilet on the ground => A small toilet on the ground with a pipe running to the camode.,http://images.cocodataset.org/val2014/COCO_val2014_000000272416.jpg
+974,large piece => large pole => large wooden pole with street sign hanging from it. => A large wooden pole with a green street sign hanging from it.,http://images.cocodataset.org/val2014/COCO_val2014_000000058636.jpg
+975,flowers => purple flowers => leafy purple flowers come from a brown vase => Leaves and purple flowers come out of a brown vase on a desk.,http://images.cocodataset.org/val2014/COCO_val2014_000000176232.jpg
+976,beverage => wine => man pouring wine on top of table. => A man pouring a glass of wine on top of a wooden table.,http://images.cocodataset.org/val2014/COCO_val2014_000000180751.jpg
+977,bird => sandpiper => sandpiper looking for food in the beach => A sandpiper probes the sand with its beak looking for food at the tideline.,http://images.cocodataset.org/val2014/COCO_val2014_000000357060.jpg
+978,people => human couple => woman and man sitting on couch => A woman and a man sitting on a couch next to each other.,http://images.cocodataset.org/val2014/COCO_val2014_000000319100.jpg
+979,animals => group of animals => group of animals on grass covered field => A group of animals standing on top of a grass covered field.,http://images.cocodataset.org/val2014/COCO_val2014_000000295231.jpg
+980,scene => landscape => a landscape with benches => A picture of some type of park with benches and no people around.,http://images.cocodataset.org/val2014/COCO_val2014_000000078032.jpg
+981,cake => multitier cake => multilayer cake on a table. => A tall multi layer cake sitting on top of a blue table cloth.,http://images.cocodataset.org/val2014/COCO_val2014_000000054628.jpg
+982,headphones => boy with headphones => boy with headset on computer => A boy waring headphones is playing a game on his computer.,http://images.cocodataset.org/val2014/COCO_val2014_000000345252.jpg
+983,hydrant => fire hydrants => thee fire hydrants in a plaza => Thee copper fire hydrants on a plaza in a large city.,http://images.cocodataset.org/val2014/COCO_val2014_000000028993.jpg
+984,sailing => sailing boats => sail boat sailor rides above a body of water => Sail boats sail over a body of water while people stand near the shoreline.,http://images.cocodataset.org/val2014/COCO_val2014_000000078565.jpg
+985,"transportation => public transportation => street transportation train, close up => a close up of a public transit train with its doors open",http://images.cocodataset.org/val2014/COCO_val2014_000000213816.jpg
+986,bench => park bench => a park bench by the grassy field => A park bench next to fence and trees by grassy field.,http://images.cocodataset.org/val2014/COCO_val2014_000000162130.jpg
+987,cooked => cooked food => cooked food in this image => A plate of cooked food in seen in this image.,http://images.cocodataset.org/val2014/COCO_val2014_000000177714.jpg
+988,bus => city bus => city bus pulled up at the curb => A purple and white city bus pulling up to the curb,http://images.cocodataset.org/val2014/COCO_val2014_000000313182.jpg
+989,pet => cat => black and white cat sits on hood => A black and white cat lays on the hood of a car.,http://images.cocodataset.org/val2014/COCO_val2014_000000260925.jpg
+990,vehicles => motor vehicles => row of motor vehicles => A row of cars parked next to a large boat,http://images.cocodataset.org/val2014/COCO_val2014_000000111086.jpg
+991,object => box => the box is filled with fruit. => A bunch of boxes that have fruit inside of them.,http://images.cocodataset.org/val2014/COCO_val2014_000000303566.jpg
+992,human body part => human hand => person hand holding an object. => A bathroom that has a persons hand holding an object.,http://images.cocodataset.org/val2014/COCO_val2014_000000257169.jpg
+993,outdoor activities => riding => riding a horse => a woman dressed in English riding clothes rides a horse,http://images.cocodataset.org/val2014/COCO_val2014_000000140270.jpg
+994,appliance => kitchen appliance => large white kitchen range with gold towels => A large white kitchen range with gold towels on the front.,http://images.cocodataset.org/val2014/COCO_val2014_000000177935.jpg
+995,outdoor sports => skier => person with skis in the air on snow => A person with skis in the air on snow covered mountains.,http://images.cocodataset.org/val2014/COCO_val2014_000000249786.jpg
+996,vegetable => broccoli => raw broccoli => A raw piece of broccoli with something growing from it.,http://images.cocodataset.org/val2014/COCO_val2014_000000019221.jpg
+997,vehicle => motorcycle => person riding motorcycle on the road => A person on a motor bike travels around a sharp corner.,http://images.cocodataset.org/val2014/COCO_val2014_000000007816.jpg
+998,animal => swan => family of swans swimming on lake => A family of swans swimming on top of a lake.,http://images.cocodataset.org/val2014/COCO_val2014_000000023230.jpg
+999,animal => cats => couple of cats sitting on a blanket => A couple of cats laying on top of a pink blanket.,http://images.cocodataset.org/val2014/COCO_val2014_000000039769.jpg
