@@ -1,1 +1,125 @@
-(coming soon)
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <title>Emergent Visual-Semantic Hierarchies (Visualization)</title>
+    <style>
+        .cannot {
+            margin: 10px;
+            padding: 10px;
+            font-family: monospace;
+            display: inline-block;
+        }
+
+        img.viz {
+            margin-left: 50px;
+            margin-top: 20px;
+        }
+
+        #item_number {
+            width: 70px;
+        }
+
+        .res {
+            min-height: 500px;
+            padding: 20px;
+        }
+
+        #results,
+        #results_img {
+            margin: 20px;
+        }
+
+        #results_img {
+            margin-top: 80px;
+        }
+    </style>
+</head>
+
+<body class="container" style="max-width:840px">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+        crossorigin="anonymous"></script>
+
+    <!-- heading -->
+    <div>
+
+        <!-- title -->
+        <div class='row mt-5 mb-3'>
+            <div class='col text-center'>
+                <p class="h2 font-weight-normal">Emergent Visual-Semantic Hierarchies in Image-Text Representations –
+                    Interactive Visualization</p>
+                    <p class="h3 font-weight-normal"><a href="../index.html">(Homepage)</a></p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <p>
+                    Below we show samples from the HierarCaps train set, along with hierarchical retrieval results
+                    on the HierarCaps test set (using CLIP-Large before and after fine-tuning).
+                    Select the dataset split and model that you would like to use, and click "Previous" and "Next" to
+                    browse
+                    through the results.
+                    Items appear in random order, and the 100 train items are selected randomly from the 73K-item train
+                    set.
+                    For externally-hosted images, we provide a link rather than reproducing the image directly.
+                    For test set predictions, texts are retrieved from the expanded candidate set used for qualitative
+                    results
+                    (not only those in the 1K-item manually-curated test set).
+                </p>
+                <noscript>
+                    <p>
+                        <b>This page requires JavaScript to be enabled.
+                            Please enable scripts in your browser.</b>
+                    </p>
+                </noscript>
+                <hr>
+            </div>
+        </div>
+
+        <script src="scripts/gt.js"></script>
+        <script src="scripts/names.js"></script>
+        <script src="scripts/res.js"></script>
+        <script src="scripts/urls.js"></script>
+        <script src="scripts/viz.js"></script>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <label for="dataset">Choose the dataset split of HierarCaps:</label>
+                <select name="dataset" id="dataset" onchange="switch_dataset()">
+                    <option value="train">Train</option>
+                    <option value="test">Test</option>
+                </select>
+            </div>
+
+            <div class="col-md-7 col-sm-7 col-xs-7 res">
+                &nbsp;&nbsp;&nbsp;&nbsp;<a href="#/" class="previous" onclick="previous()">&laquo; Previous</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                Item <input type="number" id="item_number" onchange="numchange()"> / <span id="c2"></span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#/" class="next" onclick="next()">Next &raquo;</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <br>
+                <div id="results"></div>
+            </div>
+
+            <div class="col-md-5 col-sm-5 col-xs-5 res">
+                <div id="results_img"></div>
+            </div>
+        </div>
+
+        <script src="scripts/nav.js"></script>
+
+</body>
+
+</html>

@@ -3,16 +3,16 @@
 
 <head>
   <meta charset="utf-8">
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:image" content="https://tau-vailab.github.io/kiki-bouba/assets/bouba3.jpg" /> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:image" content="https://tau-vailab.github.io/hierarcaps/assets/teaser.png" />
   <meta property="og:title" content="Emergent Visual-Semantic Hierarchies in Image-Text Representations" />
-  <!-- <meta property="og:description"
-    content="Psychological experiments have shown that humans tend to associate certain speech sounds with certain visual shapes. We ask: What about AI models for tasks like text-to-image generation? By generating images using prompts containing pseudowords (nonsense words) and analyzing their shapes, we show that AI image generation models also show sound-shape associations." /> -->
+  <meta property="og:description"
+    content="We find that foundation VLMs like CLIP model visual-semantic hierarchies." />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <!-- <link rel="stylesheet" href="web/style.css"> -->
+  <link rel="stylesheet" href="web/style.css">
   <title>Emergent Visual-Semantic Hierarchies in Image-Text Representations</title>
 </head>
 
@@ -83,15 +83,129 @@
       </div>
     </div>
 
+    <!-- teaser -->
+    <div class='row justify-content-center'>
+
+      <div class="card teaser teaser_img_card">
+        <img src="assets/teaser.png" class="img-fluid rounded mx-auto d-block teaser_img">
+      </div>
+
+      <div class='text-center col-md-12 col-sm-12 col-xs-12 align-middle mt-1'>
+        <p class='h6'>
+          <em>TL;DR: Foundation VLMs like CLIP model <b>visual-semantic hierarchies</b> like the one shown above.</em>
+        </p>
+        <hr>
+      </div>
+    </div>
+
+    <!-- abstract -->
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <p class="h4 font-weight-bold title">Abstract</p>
+        <p class="abstract"><!--style="line-height: 1;">-->
+          While recent vision-and-language models (VLMs) like CLIP are a powerful tool for analyzing text and images in
+          a shared semantic space, they do not explicitly model the hierarchical nature of the set of texts which may
+          describe an image. Conversely, existing multimodal hierarchical representation learning methods require costly
+          training from scratch, failing to leverage the knowledge encoded by state-of-the-art multimodal foundation
+          models. In this work, we study the knowledge of existing foundation models, finding that they exhibit emergent
+          understanding of visual-semantic hierarchies despite not being directly trained for this purpose. We propose
+          the Radial Embedding (RE) framework for probing and optimizing hierarchical understanding, and contribute the
+          HierarCaps dataset, a benchmark facilitating the study of hierarchical knowledge in image&ndash;text
+          representations, constructed automatically via large language models. Our results show that foundation VLMs
+          exhibit zero-shot hierarchical understanding, surpassing the performance of prior models explicitly designed
+          for this purpose. Furthermore, we show that foundation models may be better aligned to hierarchical reasoning
+          via a text-only fine-tuning phase, while retaining pretraining knowledge.
+        </p>
+        <hr>
+      </div>
+    </div>
+
+    <!-- method -->
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <p class="h4 font-weight-bold title">Probing and Optimizing with the RE Framework</p>
+        <p>
+          Our <i>Radial Embedding</i> (RE) framework defines geometric relations between embeddings in VLMs such as CLIP
+          which we find effectively encode hierarchical knowledge. The RE framework is designed to flexibly adapt to the
+          emergent geometry of such VLMs, contrasting with prior approaches that train hierarchical models from scratch
+          with stricter geometric assumptions. In addition to zero-shot probing, RE can be used to <i>align</i> VLMs
+          with a light-weight fine-tuning stage to enhance hierarchical understanding, using the RE loss illustrated
+          below:
+        </p>
+
+        <div class="row justify-content-center">
+          <div class="card pipe_card noborder">
+            <img src="assets/re.png" class="img-fluid rounded mx-auto d-block re_img">
+          </div>
+        </div>
+
+        <p>
+          This is a contrastive loss based on the learnable root embedding <b>r</b> and the triplet (<b>e</b>,
+          <b>e'</b>, <b>e''</b>) of caption text embeddings selected to include logical entailment and contradiction relations.
+          See our paper for further technical details.
+        </p>
+
+        <hr>
+      </div>
+    </div>
+
     <!-- viz -->
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
-        <p class="h4 font-weight-bold">Interactive Visualization</p>
+        <p class="h4 font-weight-bold title">The HierarCaps Dataset</p>
         <p>
-          See our <a href="web/viz.html">interactive visualization</a> for model results
-          on the HierarCaps test set, as well as a random subset of the HierarCaps train set.
+          We propose the <a href="https://github.com/TAU-VAILab/hierarcaps/tree/main/data">HierarCaps</a> dataset
+          consisting of images with paired ground-truth caption
+          hierarchies, as shown below:
         </p>
+        <div class="row justify-content-center">
+          <div class="card pipe_card noborder">
+            <img src="assets/hierarcaps.png" class="img-fluid rounded mx-auto d-block pipe pipe4 pipe_img">
+          </div>
+        </div>
+        <p>
+          As existing image captioning datasets only have a single caption (or unrelated reference captions) for each
+          image, we leverage existing paired image-caption datasets along with an LLM and NLI-based pipeline to generate
+          logical caption hierarchies.
+          Our train set consists of over 70K paired images and captions, while we manually curate 1K items as a clean
+          test set. We also contribute quantitative metrics for hierarchical understanding on HierarCaps.
+        </p>
+        <p>
+
+        </p>
+        <hr>
       </div>
+    </div>
+
+    <!-- viz -->
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <p class="h4 font-weight-bold title">Code, Trained Models, and Results</p>
+        <p>
+          We release our
+          <a href="https://github.com/TAU-VAILab/hierarcaps">code</a> and <a
+            href="https://github.com/TAU-VAILab/hierarcaps">trained models</a>, anticipating further research on
+          visual-semantic hierarchical understanding. We also provide a <a href="web/viz.html">interactive
+            visualization</a> of model results on the HierarCaps test set, as well as a random subset of the HierarCaps
+          train set.
+        </p>
+        <hr>
+      </div>
+    </div>
+
+    <!-- ack -->
+    <div>
+      <div class="row">
+        <div class='col-md-12 col-sm-12 col-xs-12'>
+          <p class='h4 font-weight-bold title'>Acknowledgements</p>
+          <p class="ack">
+            We thank Yotam Elor, Roi Livni, Guy Tevet, Chen Dudai, and Rinon Gal for
+            providing helpful feedback. This work was partially supported by ISF (grant
+            number 2510/23).
+          </p>
+        </div>
+      </div>
+      <hr>
     </div>
 
     <!-- citation -->
