@@ -16,6 +16,7 @@ def get_opts():
     parser.add_argument('--imgs_dir', '-i', type=str, default='images')
     parser.add_argument('--expname', '-e', type=str)
     parser.add_argument('--steps', '-s', type=int, default=50)
+    parser.add_argument('--device', default='cuda', type=str)
     return parser.parse_args()
 
 

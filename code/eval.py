@@ -17,6 +17,7 @@ def get_opts():
     parser.add_argument('--steps', '-s', type=int, default=50)
     parser.add_argument('-bc', '--base_checkpoint',
                         default='openai/clip-vit-base-patch32', type=str)
+    parser.add_argument('--device', default='cuda', type=str)
     return parser.parse_args()
 
 

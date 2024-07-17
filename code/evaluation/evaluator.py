@@ -13,6 +13,7 @@ class Evaluator:
         self.log = log
         self.steps = args.steps
         self.base_checkpoint = args.base_checkpoint
+        self.device = args.device
 
         self._load_model()
 
@@ -26,7 +27,7 @@ class Evaluator:
         else:
             print('Loading CLIP weights for evaluation from:', self.weights_fn)
             ckpt = self.weights_fn
-        self.clip = CLIPModel.from_pretrained(ckpt).to('cuda')
+        self.clip = CLIPModel.from_pretrained(ckpt).to(self.device)
         self.clip.eval()
         self.proc = AutoProcessor.from_pretrained(ckpt)
         print('CLIP model loaded')

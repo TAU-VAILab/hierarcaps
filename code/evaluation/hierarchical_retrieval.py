@@ -92,7 +92,7 @@ class HCEvaluator(Evaluator):
         print("Running HierarCaps evaluation")
 
         inp = self.proc(text="", padding=True, truncation=True,
-                        return_tensors="pt").to('cuda')
+                        return_tensors="pt").to(self.device)
         root = self.clip.get_text_features(**inp)[0]
         root /= root.norm()
 
@@ -103,13 +103,13 @@ class HCEvaluator(Evaluator):
             texts = row2texts(row)
             assert len(texts) == 4, f'Invalid number of val texts: {len(texts)}'
             inp = self.proc(text=texts, truncation=True,
-                            padding=True, return_tensors='pt').to('cuda')
+                            padding=True, return_tensors='pt').to(self.device)
             E = self.clip.get_text_features(**inp)
             E = E / E.norm(dim=-1)[:, None]
             return E
 
         def embed_img(img):
-            inp = self.proc(images=img, return_tensors='pt').to('cuda')
+            inp = self.proc(images=img, return_tensors='pt').to(self.device)
             E = self.clip.get_image_features(**inp)[0]
             E = E / E.norm()
             return E

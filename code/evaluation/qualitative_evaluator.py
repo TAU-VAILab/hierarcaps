@@ -17,6 +17,7 @@ class QualitativeEvaluator:
         self.csvfile = args.csvfile
         self.steps = args.steps
         self.candidates_filename = args.candidates_filename
+        self.device = args.device
 
         self._load_imgs()
         self._load_captions()
@@ -44,7 +45,7 @@ class QualitativeEvaluator:
         if self.weights_fn is not None:
             print('Loading CLIP weights for evaluation from:', self.weights_fn)
             ckpt = self.weights_fn
-        self.clip = CLIPModel.from_pretrained(ckpt).to('cuda')
+        self.clip = CLIPModel.from_pretrained(ckpt).to(self.device)
         self.clip.eval()
         self.proc = AutoProcessor.from_pretrained(ckpt)
         print('CLIP model loaded')
@@ -55,7 +56,7 @@ class QualitativeEvaluator:
         log = ""
 
         print(f'Embedding {len(self.imgs)} images...')
-        inp = self.proc(images=self.imgs, return_tensors="pt").to('cuda')
+        inp = self.proc(images=self.imgs, return_tensors="pt").to(self.device)
         VE = self.clip.get_image_features(**inp)
         VE = VE / VE.norm(dim=-1)[:, None]
         print('Images embedded; embedding shape:', VE.shape)
@@ -66,14 +67,14 @@ class QualitativeEvaluator:
         radii_mean = []
 
         inp = self.proc(text=[''], padding=True,
-                        truncation=True, return_tensors="pt").to('cuda')
+                        truncation=True, return_tensors="pt").to(self.device)
         root = self.clip.get_text_features(**inp)
         root = root / root.norm(dim=-1)[:, None]
         root = root[0]
 
         for cap in tqdm(self.caps, desc="Scoring captions"):
             inp = self.proc(text=[cap], padding=True,
-                            truncation=True, return_tensors="pt").to('cuda')
+                            truncation=True, return_tensors="pt").to(self.device)
 
             TE = self.clip.get_text_features(**inp)
             TE = TE / TE.norm(dim=-1)[:, None]
