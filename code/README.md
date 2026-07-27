@@ -16,7 +16,7 @@ python train.py
 
 Run with `--help / -h` to see all arguments and default values.
 
-You may also download [fine-tuned CLIP-B and CLIP-L checkpoints](https://drive.google.com/drive/folders/1s-f2L0pFzZXs2jCaIyfMa207iiNYkua3?usp=sharing).
+You may also download fine-tuned CLIP-B and CLIP-L checkpoints from the Hugging Face Hub: [malper/hierarcaps-clip-b](https://huggingface.co/malper/hierarcaps-clip-b) and [malper/hierarcaps-clip-l](https://huggingface.co/malper/hierarcaps-clip-l).
 
 ## Inference
 

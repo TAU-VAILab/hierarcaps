@@ -12,7 +12,7 @@ See the [code subdirectory](code) for code files and documentation.
 
 See our paper's supplementary material for details on the various model checkpoints used for zero-shot tests.
 
-We also provide our [fine-tuned CLIP-B and CLIP-L checkpoints](https://drive.google.com/drive/folders/1s-f2L0pFzZXs2jCaIyfMa207iiNYkua3?usp=sharing).
+We also provide our fine-tuned CLIP-B and CLIP-L checkpoints on the Hugging Face Hub: [malper/hierarcaps-clip-b](https://huggingface.co/malper/hierarcaps-clip-b) and [malper/hierarcaps-clip-l](https://huggingface.co/malper/hierarcaps-clip-l).
 
 ## HierarCaps Dataset
 
